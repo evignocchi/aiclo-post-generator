@@ -42,21 +42,31 @@ Da domani nel mio team la domanda è una: «E se non cambia niente, fra sei mesi
 Il rapport ti fa entrare. Le implicazioni ti fanno firmare.
 
 ## Visual
-Tipo: tipografica (Template C adattato), 4:5.
+Tipo: scritto a mano (Template K), meglio ancora foto vera (Template L).
 
+**Opzione A, consigliata: foto vera (5 minuti).**
+Simone scrive su una lavagna (o un foglio a quadretti) a pennarello:
+Situazione 2,7 · Problema 2,8 · Rapport 3,2 · Implicazioni 1,5.
+Poi cerchia **1,5** tre volte in rosso e ci tira una freccia. Foto col telefono, verticale, di 3/4, luce naturale. Se vuole, c'è anche lui di spalle o con il pennarello in mano. Logo vero sovrapposto in basso a destra.
+
+**Opzione B: generata.**
 Prompt:
 ```
-Poster tipografico minimalista, sfondo quasi nero #08090B, formato 4:5, 1080x1350.
-Al centro quattro righe allineate a sinistra, font IBM Plex Mono, grandi, una sotto l'altra:
-"Situazione   2,7"
-"Problema     2,8"
-"Rapport      3,2"
+Fotografia realistica di una lavagna bianca in una piccola sala riunioni di un'azienda italiana,
+ripresa di 3/4 con luce naturale da una finestra a sinistra, formato verticale 4:5, 1080x1350.
+Scritto a pennarello nero, grafia vera, un po' storta, quattro righe una sotto l'altra:
+"Situazione 2,7"
+"Problema 2,8"
+"Rapport 3,2"
 "Implicazioni 1,5"
-Le prime tre righe in bianco, l'ultima riga interamente in ambra #F9A517 e leggermente più grande.
-Sottili linee separatrici #262E36 fra le righe. Nessun altro testo, nessuna icona, molto spazio vuoto.
-Lasciare vuoto l'angolo in basso a destra per il logo (nessun logo generato).
+Il numero "1,5" è cerchiato tre volte con un pennarello rosso, con una freccia che lo indica.
+Un pennarello color ambra #F9A517 appoggiato sul bordo della lavagna. Vecchie cancellature appena visibili sullo sfondo.
+Nessuna persona, nessun altro testo. Profondità di campo ridotta sul cerchio rosso.
+Lasciare libero l'angolo in basso a destra per il logo (nessun logo generato).
 ```
-Dopo: sovrapporre `brand/logo-bianco.png` in basso a destra (circa 15% della larghezza, margine 48px) e controllare che le virgole dei numeri siano giuste.
+Anomalia: tre voti "normali" e un 1,5 cerchiato in rosso, come alla lavagna di scuola.
+
+Controlli: verificare che i numeri e le virgole siano scritti giusti (se no, correggerli in Canva); sovrapporre `brand/logo-bianco.png` o `logo-nero.png` a seconda dello sfondo, circa 15% della larghezza, margine 48px.
 
 ## Primo commento (facoltativo)
 Venditori: qual è la domanda che sapete di dover fare in trattativa e che saltate quasi sempre? La mia era quella sulle conseguenze.

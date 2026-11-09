@@ -26,7 +26,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 3. **Scrivi 3 hook alternativi** con meccanismi diversi e scegli il migliore.
 4. **Scrivi il post** con la struttura scelta e la voce dell'autore.
 5. **Passa la checklist** di `guide/08-checklist-qualita.md` e correggi.
-6. **Decidi il visual** con la tabella del file `07`. Se serve, scrivi il prompt completo partendo dal template e usando i colori del brand.
+6. **Decidi il visual** con la tabella del file `07` e rispetta **le 12 regole per una visual che ferma lo scroll** (stesso file). Se serve, scrivi il prompt completo partendo dal template e usando i colori del brand. Alterna i tipi: mai tre post di fila con la stessa card scura.
 7. **Salva** in `post/<autore>/AAAA-MM-GG-slug.md`.
 
 Quantità: **a richiesta**. Se vengono chiesti più post insieme, variare autore, target e struttura.
@@ -47,9 +47,10 @@ Quantità: **a richiesta**. Se vengono chiesti più post insieme, variare autore
 [testo pronto da incollare]
 
 ## Visual
-Tipo: [nessuno | metafora | card trascrizione | tipografica | carosello | meme | screenshot | foto reale]
+Tipo: [nessuno | oggetto reale | numero gigante | grafico che fa male | chat | scritto a mano | foto dell'autore | metafora | card trascrizione | tipografica | carosello | meme | screenshot]
 Prompt:
 [prompt completo, pronto da incollare nel generatore]
+Anomalia: [cosa c'è di storto o di strano che ferma il pollice, in una riga]
 (oppure: "Nessun visual: testo semplice.")
 
 ## Primo commento (facoltativo)

@@ -27,6 +27,14 @@ Un post si pubblica solo con **almeno 15 sì su 17**, e i punti contrassegnati c
 - [ ] ⛔ Provoca un pensiero, non attacca nessuno. Nessuna frase presuntuosa o che fa sentire stupido chi legge.
 - [ ] La voce corrisponde al `profilo.md` dell'autore.
 
+## Visual (se c'è; non entra nel punteggio, ma se un punto è no si rifà la visual)
+- [ ] Test del pollice: rimpicciolita a 300 pixel si capisce in un secondo.
+- [ ] Un solo protagonista, grande almeno metà dell'immagine.
+- [ ] C'è un'anomalia o una tensione (scritta nell'output alla voce "Anomalia").
+- [ ] Massimo 8 parole, e aggiungono qualcosa alla prima riga del post.
+- [ ] Nessun cliché (strette di mano, robot, frecce, icone, gradienti, sorrisi da banca d'immagini).
+- [ ] Non è il terzo post di fila con lo stesso tipo di visual.
+
 ## Test finali
 - **Test WhatsApp:** un venditore lo girerebbe a un collega?
 - **Test del titolare:** un manager lo metterebbe nella chat del team dicendo "leggete qua"?

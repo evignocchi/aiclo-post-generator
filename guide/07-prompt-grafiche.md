@@ -8,21 +8,29 @@ Dai post di riferimento: i vincenti sono **testo semplice** oppure hanno **un vi
 | S1 Ribaltamento | Nessuno, oppure una card tipografica con la frase finale |
 | S2 Concetto con nome | **Immagine metafora** (oggetto assurdo o simbolico) |
 | S3 Confessione manager | Nessuno, oppure una foto reale dell'autore |
-| S4 Dentro la trattativa | **Card "trascrizione"** (la battuta del cliente in stile chat) oppure uno screenshot (anonimizzato) dello scorecard Aiclo |
+| S4 Dentro la trattativa | **Card "trascrizione"** (la battuta del cliente in stile chat) oppure uno **screenshot reale** della scorecard Aiclo con dati demo (Template F) |
 | S5 Storia dal campo | Foto reale (mai generata con l'AI) |
 | S6 Formula / strumento | **Infografica / carosello PDF** (qui sì) |
 | Meme | Immagine meme |
 
-## Brand (da confermare: vedi `domande-aperte.md`)
+## Brand (estratto dal CSS di aiclo.io)
+Il sito è **dark**: sfondo quasi nero, testo bianco, un solo colore d'accento ambra/arancio.
+
 ```
-BRAND_PRIMARY   = [HEX da fornire]
-BRAND_ACCENT    = [HEX da fornire]
-BRAND_DARK      = #0F172A (provvisorio)
-BRAND_LIGHT     = #F8FAFC (provvisorio)
-FONT            = sans-serif geometrico, tipo Inter / Manrope (provvisorio)
-LOGO            = wordmark "Aiclo", piccolo, in basso a destra
+SFONDO          = #08090B   (quasi nero; varianti per le card: #0E1014, #101318, #181C24)
+SUPERFICIE      = #262E36   (bordi e pannelli)
+TESTO           = #FFFFFF   (secondario: #9CA3AF)
+ACCENTO         = #F9A517   (ambra Aiclo, il colore del brand; usarlo per 1 parola o 1 elemento)
+ACCENTO CHIARO  = #FAD394   (velatura: ambra al 12% sullo sfondo)
+COLORI DATI     = verde #7BD1A0 · blu #8FB8F0 · rosso #EE293A   (solo per punteggi e grafici)
+FONT TITOLI     = Sora (bold)
+FONT TESTO      = DM Sans
+FONT DATI/LABEL = IBM Plex Mono (etichette tipo "CLIENTE · 23:14", numeri)
+LOGO            = wordmark "Aiclo" bianco (logo-white.svg), piccolo, in basso a destra
 FORMATO         = 1080x1350 (4:5) per il feed; 1080x1080 per i caroselli
 ```
+
+Regola: **sfondo scuro + bianco + un tocco di ambra**. Le card chiare si usano solo come eccezione (per esempio una citazione su sfondo `#FEF7E0`).
 
 ## Regole valide per ogni prompt
 - Una sola idea visiva per immagine.
@@ -35,39 +43,43 @@ FORMATO         = 1080x1350 (4:5) per il feed; 1080x1080 per i caroselli
 
 ## Template A — Immagine metafora (per S2)
 ```
-Fotografia editoriale concettuale, luce naturale morbida, composizione minimalista,
-sfondo neutro chiaro (#F8FAFC). Soggetto: [OGGETTO ASSURDO CHE RAPPRESENTA IL CONCETTO,
+Fotografia editoriale concettuale, still life su sfondo quasi nero (#08090B), un'unica luce
+laterale calda color ambra (#F9A517) che illumina il soggetto, composizione minimalista.
+Soggetto: [OGGETTO ASSURDO CHE RAPPRESENTA IL CONCETTO,
 es. "un binocolo con il 95% delle lenti coperto da nastro adesivo nero"].
-Stile: realistico, still life, alto contrasto, profondità di campo ridotta.
+Stile: realistico, alto contrasto, profondità di campo ridotta.
 Nessun testo nell'immagine. Formato 4:5, 1080x1350.
 ```
 
 ## Template B — Card "trascrizione" (per S4)
 ```
-Grafica flat, sfondo [BRAND_DARK]. Al centro una bolla di chat stile trascrizione,
-etichetta piccola in alto "Cliente · min 23:14", testo grande in bianco:
+Grafica flat minimalista, sfondo quasi nero #08090B. Al centro una card scura #101318
+con bordo sottile #262E36 e angoli arrotondati, stile trascrizione.
+In alto nella card un'etichetta in font monospace (IBM Plex Mono), piccola, color ambra #F9A517:
+"CLIENTE · 23:14". Sotto, testo grande bianco in font Sora bold:
 "[BATTUTA DEL CLIENTE, max 10 parole]".
-Sotto, una seconda bolla più piccola e opaca, etichetta "Venditore", testo:
-"[RISPOSTA DEL VENDITORE, max 8 parole]".
-In basso a destra il wordmark "Aiclo" piccolo. Font sans-serif geometrico, molto spazio vuoto.
+Più in basso una seconda riga più piccola in grigio #9CA3AF, etichetta monospace "VENDITORE",
+testo: "[RISPOSTA DEL VENDITORE, max 8 parole]".
+In basso a destra il wordmark "Aiclo" bianco, piccolo. Molto spazio vuoto.
 Formato 4:5, 1080x1350.
 ```
 
 ## Template C — Card tipografica (per S1 / la chiusura)
 ```
-Poster tipografico minimalista, sfondo [BRAND_LIGHT], una sola frase centrata in nero,
-font sans-serif bold molto grande: "[FRASE, max 10 parole]".
-Una parola evidenziata con [BRAND_ACCENT]. Nessun altro elemento tranne il wordmark
-"Aiclo" piccolo in basso. Formato 4:5.
+Poster tipografico minimalista, sfondo quasi nero #08090B, una sola frase centrata
+in bianco, font Sora bold molto grande: "[FRASE, max 10 parole]".
+Una sola parola in ambra #F9A517. Nessun altro elemento tranne il wordmark
+"Aiclo" bianco piccolo in basso. Formato 4:5, 1080x1350.
 ```
 
 ## Template D — Infografica / slide di carosello (per S6)
 ```
 Slide di carosello LinkedIn, formato 1080x1080, stile editoriale pulito,
-sfondo [BRAND_LIGHT], titolo in alto bold: "[TITOLO, max 6 parole]".
-Contenuto: [N] blocchi numerati in verticale, ognuno con un numero grande in [BRAND_ACCENT]
-e una riga di testo nero: 1) "[...]" 2) "[...]" 3) "[...]".
-Icone lineari sottili, nessuna foto. Footer: "Aiclo · [n]/[totale]". Molto spazio bianco.
+sfondo quasi nero #08090B, titolo in alto in bianco, font Sora bold: "[TITOLO, max 6 parole]".
+Contenuto: [N] blocchi numerati in verticale, ognuno con un numero grande in ambra #F9A517
+(font IBM Plex Mono) e una riga di testo bianco in DM Sans: 1) "[...]" 2) "[...]" 3) "[...]".
+Separatori sottili #262E36, icone lineari sottili, nessuna foto.
+Footer in monospace grigio #9CA3AF: "Aiclo · [n]/[totale]". Molto spazio vuoto.
 ```
 Per i caroselli: generare una slide alla volta con lo stesso prompt base e cambiare solo il contenuto. Copertina = hook del post.
 
@@ -79,10 +91,20 @@ mangia un panino, con un preventivo cartaceo appoggiato sul volante"]. Espressio
 ironica. Nessun testo nell'immagine (il setup va nel testo del post). Formato 4:5.
 ```
 
-## Template F — Mockup della dashboard (solo per i rari post sul prodotto)
-Meglio **uno screenshot reale** di Aiclo con dati demo (i nomi fittizi del sito vanno bene). Se serve generarlo:
+## Template F — Screenshot reale della piattaforma (✅ autorizzato con dati demo)
+Per i post S4 e S6 uno screenshot vero vale più di qualsiasi grafica generata. Istruzioni da scrivere nell'output al posto del prompt:
 ```
-Mockup di un laptop su una scrivania di legno, schermo con una dashboard SaaS pulita:
-matrice 2x2 etichettata "Star / In crescita / Da supportare / A rischio" con dei puntini colorati,
-a fianco una heatmap. Interfaccia in italiano, colori [BRAND_PRIMARY]. Luce naturale, prospettiva 3/4.
+SCREENSHOT DA FARE: [schermata, es. "scorecard di una trattativa di Discovery",
+"matrice di coaching", "heatmap del team", "miniscript di un'obiezione"]
+- Account demo, nomi fittizi (mai dati di clienti reali)
+- Ritaglio sul dettaglio che serve al post, 4:5 o 1:1
+- Evidenziare con un riquadro ambra #F9A517 l'elemento di cui parla il post
+- Facoltativo: cornice su sfondo #08090B con una riga di titolo in Sora bianco
+```
+Solo se non è possibile fare lo screenshot, generare un mockup:
+```
+Mockup di un laptop su una scrivania di legno, schermo con una dashboard SaaS dark
+(sfondo #08090B, card #101318, accento ambra #F9A517): matrice 2x2 etichettata
+"Star / In crescita / Da supportare / A rischio" con puntini colorati, a fianco una heatmap.
+Interfaccia in italiano. Luce naturale, prospettiva 3/4.
 ```

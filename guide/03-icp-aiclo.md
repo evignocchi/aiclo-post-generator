@@ -24,7 +24,7 @@
 | **+25%** di conversioni medie | Con cautela, solo come prova finale |
 | **+33%** di produttività dei venditori (meno note, ricerche e follow-up a mano) | Post per i venditori |
 | **10.000+** trattative analizzate, **30+** settori, **200+** team | Autorevolezza ("abbiamo visto…") |
-| **63%** delle vendite in Europa avviene ancora sul territorio | ⚠️ Il sito non cita la fonte: chiederla prima di usarla |
+| ~~63% delle vendite in Europa avviene sul territorio~~ | ⛔ **Non usare**: nessuna fonte disponibile |
 | Unica piattaforma pensata anche per chi vende dal vivo | Differenziante: "gli altri tool funzionano solo in videocall" |
 
 ## ICP — profilo dell'azienda
@@ -50,6 +50,9 @@
 **La sua frase:** "Lasciatemi lavorare, i numeri li porto."
 
 👉 La mappa dell'empatia completa e aggressiva è nel file `04`.
+
+## Dati reali oltre al sito
+Insight aggregati delle trattative, clienti citabili ed episodi anonimizzati: tutto nella cartella `dati/`. Il team ha autorizzato a usarli; il generatore usa solo le righe con `Approvato: sì`.
 
 ## Posizionamento in una frase (per noi, non da incollare)
 Per il manager che non può ascoltare 300 trattative al mese, Aiclo è **l'unico modo di vedere il 95% che oggi non vede**, anche quando la trattativa avviene in un salotto o in un capannone e non su Zoom. E per il venditore è **un coach che non lo giudica davanti a tutti**.

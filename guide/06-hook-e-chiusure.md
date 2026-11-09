@@ -28,10 +28,12 @@ Gli hook sono modellati sui meccanismi dei post di riferimento (vedi file `01`).
 - "Quando valuto un venditore guardo 3 cose. Il fatturato non è una di queste."
 
 ### 7. L'attualità ribaltata (da #10, #18)
-- "Tutti parlano di agenti AI che vendono al posto tuo. Intanto il 63% delle vendite avviene ancora in un salotto." *(⚠️ verificare la fonte del 63%)*
+- "Tutti parlano di agenti AI che vendono al posto tuo. Intanto, stamattina, migliaia di agenti sono in macchina verso il loro primo appuntamento."
 
 ### 8. Il meme (da #9)
 - Setup: "LinkedIn: 'Ho automatizzato tutto il mio processo di vendita con 14 agenti AI.'" → Immagine: un agente sudato in macchina con il preventivo sul cruscotto.
+
+> Ogni hook deve provocare un pensiero, non attaccare chi legge (vedi "Fin dove si provoca" nel file `05`).
 
 ## Chiusure — 5 tipi
 

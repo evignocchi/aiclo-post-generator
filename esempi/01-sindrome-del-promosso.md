@@ -1,11 +1,11 @@
 # La sindrome del promosso
 
-**Brief** — Target: Manager · Leva: ex top performer diventato manager mediocre · Struttura: S2 (concetto con un nome) · Obiettivo: condivisioni e commenti
+**Autore** — Andrea Aureli · **Brief** — Target: Manager · Leva: ex top performer diventato manager mediocre · Struttura: S2 (concetto con un nome) · Obiettivo: condivisioni e commenti
 
 ## Hook alternativi
 1. Esiste una cosa che chiamo "la sindrome del promosso".
 2. Ti hanno promosso perché vendevi. Nessuno ti ha insegnato a far vendere gli altri.
-3. Il miglior venditore dell'azienda diventa quasi sempre un manager nella media. Non è colpa sua.
+3. Mi hanno detto "da lunedì guidi tu il team". Nessuno mi ha detto come.
 
 ## Post
 Esiste una cosa che chiamo "la sindrome del promosso".
@@ -34,10 +34,10 @@ Eri bravo a vendere. Adesso il tuo lavoro è diventare bravo a farlo fare agli a
 Tipo: metafora
 Prompt:
 ```
-Fotografia editoriale concettuale, luce naturale morbida, composizione minimalista,
-sfondo neutro chiaro (#F8FAFC). Soggetto: una coppa da trofeo dorata appoggiata su una
+Fotografia editoriale concettuale, still life su sfondo quasi nero (#08090B), un'unica luce
+laterale calda color ambra (#F9A517). Soggetto: una coppa da trofeo dorata appoggiata su una
 scrivania d'ufficio, sommersa da una pila disordinata di fogli, post-it e un telefono
-che squilla. Stile realistico, still life, profondità di campo ridotta, la coppa a fuoco.
+che squilla. Stile realistico, alto contrasto, profondità di campo ridotta, la coppa a fuoco.
 Nessun testo nell'immagine. Formato 4:5, 1080x1350.
 ```
 
@@ -45,4 +45,4 @@ Nessun testo nell'immagine. Formato 4:5, 1080x1350.
 Manager: quante trattative del tuo team hai ascoltato davvero questo mese? Numero vero, nessuno giudica.
 
 ## Checklist
-15/15. Il 5% è un claim pubblico di Aiclo. Aiclo non viene nominato: è un post di posizionamento.
+17/17. Il 5% è un claim pubblico di Aiclo. Aiclo non è nominato. Nessuno viene accusato: il problema è la situazione ("nessuno ti spiega come si fa"), non il manager.

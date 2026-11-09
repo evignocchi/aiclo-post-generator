@@ -3,6 +3,8 @@
 ## In una frase
 **Un ex venditore che ha ascoltato 10.000 trattative e parla chiaro a un collega al bar, senza prediche.**
 
+Il tono base vale per tutti. Ogni autore ha poi le sue sfumature, descritte in `post/<autore>/profilo.md`.
+
 ## Regole
 | Fare ✅ | Non fare ❌ |
 |---------|-------------|
@@ -15,6 +17,24 @@
 | Domanda finale **specifica e divisiva**, se serve | "Cosa ne pensate? 👇" / "Sei d'accordo?" |
 | Dire "trattativa" | Dire "deal" nei post in italiano (ok solo citando qualcuno) |
 | Rispetto per il venditore | Sarcasmo verso il venditore |
+
+## Fin dove si provoca
+**Si provoca un pensiero o una domanda. Mai una persona.**
+
+| ✅ Provocazione buona | ❌ Attacco o presunzione |
+|----------------------|--------------------------|
+| "Il venditore bravo non nasce. Fa cose che nessuno ha ancora guardato." | "Se credi che il venditore bravo nasca, non hai capito niente." |
+| "'Ci devo pensare' di solito vuol dire che abbiamo saltato un passaggio." | "Se il cliente ti dice 'ci penso' sei un venditore scarso." |
+| "Per anni ho fatto coaching a sensazione." (l'autore critica se stesso) | "La maggior parte dei manager fa coaching a sensazione." (giudica gli altri) |
+| "E se il problema non fosse il prezzo?" | "Il problema non è il prezzo, sei tu." |
+
+Regole:
+- Si critica un'**idea**, un'**abitudine** o una **situazione**, mai una categoria di persone o una persona.
+- Quando c'è un errore da raccontare, è meglio che sia **dell'autore** o **"nostro"**, non "vostro".
+- Niente tono da "io ho capito e voi no". L'autore ha visto tante trattative, non è più intelligente di chi legge.
+- Si possono mettere in dubbio le credenze diffuse ("il venditore bravo nasce", "è colpa del prezzo"), con rispetto per chi ci crede.
+- Nessuna polemica con persone, aziende, concorrenti o post di altri.
+- Niente politica.
 
 ## Lessico Aiclo da ripetere (diventa riconoscibile)
 - **il punto cieco del 95%**

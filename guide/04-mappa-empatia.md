@@ -144,10 +144,12 @@
 | **Le provvigioni lasciate sul tavolo** | Venditore | "Quella trattativa l'hai persa al minuto 7, non alla fine." |
 | **CRM e burocrazia** | Venditore | "Ti pagano per vendere. Passi il 30% del tempo a scrivere." |
 | **Controllo vs crescita** | Entrambi | "Un atleta guarda le sue partite. Un venditore no. Perché?" |
-| **Territorio dimenticato** | Entrambi | "Tutti i tool di AI per le vendite sono costruiti per chi vende su Zoom. Il 63% delle vendite avviene altrove." (⚠️ fonte da verificare) |
+| **Territorio dimenticato** | Entrambi | "Tutti parlano di AI per le vendite pensando a chi vende su Zoom. Ma tanti venditori passano la giornata in macchina, nei capannoni e nei salotti dei clienti." |
 
 ## 🚫 Cosa NON fare mai
-- Umiliare i venditori ("i venditori italiani sono scarsi").
+> La mappa serve a **capire** il target, non a usarla contro di lui. Nel post si descrive la situazione in cui il lettore si riconosce; mai il lettore come colpevole.
+
+- Umiliare i venditori o i manager ("i venditori italiani sono scarsi", "i manager non sanno fare coaching").
 - Usare la paura del licenziamento come leva diretta.
 - Parlare di "controllo", "monitoraggio", "sorveglianza" in positivo.
 - Promettere risultati garantiti.

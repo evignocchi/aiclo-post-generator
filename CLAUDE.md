@@ -1,34 +1,42 @@
 # Istruzioni per generare i post LinkedIn di Aiclo
 
-Questa repository è una **macchina per scrivere post LinkedIn** per Aiclo (conversation intelligence per i team di vendita delle PMI italiane). Quando ti viene chiesto un post, segui questa procedura.
+Questa repository è una **macchina per scrivere post LinkedIn** che escono dai **profili personali** del team Aiclo (conversation intelligence per i team di vendita delle PMI italiane).
+
+**Obiettivo unico: engagement** (reazioni, commenti, condivisioni). Non si vendono demo. Il post deve valere anche per chi non comprerà mai Aiclo.
 
 ## Prima di scrivere, leggi
-1. `guide/02-anatomia-post-vincente.md`: le 10 leggi e le 6 strutture **(obbligatorio)**
-2. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
-3. `guide/05-tono-di-voce.md`: come parli **(obbligatorio)**
-4. `guide/06-hook-e-chiusure.md`: i meccanismi per l'apertura e la chiusura
-5. `guide/03-icp-aiclo.md`: il prodotto e i claim utilizzabili
-6. `guide/07-prompt-grafiche.md`: solo se il post richiede un visual
-7. `guide/01-analisi-post-benchmark.md`: per approfondire perché le regole sono queste
+1. `post/<autore>/profilo.md`: chi firma il post, la sua voce, i suoi temi **(obbligatorio)**
+2. `guide/02-anatomia-post-vincente.md`: le 10 leggi e le 6 strutture **(obbligatorio)**
+3. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
+4. `guide/05-tono-di-voce.md`: come parli e fin dove si può provocare **(obbligatorio)**
+5. `guide/06-hook-e-chiusure.md`: i meccanismi per l'apertura e la chiusura
+6. `dati/`: insight, clienti ed episodi reali utilizzabili (solo le righe con `Approvato: sì`)
+7. `guide/03-icp-aiclo.md`: il prodotto e i claim pubblici
+8. `guide/07-prompt-grafiche.md`: brand e prompt, solo se il post richiede un visual
+9. `guide/01-analisi-post-benchmark.md`: per approfondire perché le regole sono queste
 
 ## Procedura
-1. **Definisci il brief** (se l'utente non lo dà, sceglilo tu e scrivilo in testa all'output):
-   - Target: Manager | Venditore | Entrambi
-   - Leva emotiva (dalla tabella "Leve emotive" del file `04`)
+1. **Autore.** Se l'utente non lo indica, chiedilo. Leggi il suo `profilo.md` e gli ultimi 5 post nella sua cartella, per non ripetere temi, hook o strutture.
+2. **Brief** (se l'utente non lo dà, sceglilo tu e scrivilo in testa all'output):
+   - Target: Manager | Venditore. **Alternali**: guarda gli ultimi post dell'autore e scegli il target meno usato di recente.
+   - Leva emotiva (dalla tabella del file `04`)
    - Struttura: S1-S6 o Meme
-   - Obiettivo: commenti | condivisioni | salvataggi | autorevolezza
-   - Materiale reale disponibile (dato, episodio, trascrizione)
-2. **Scrivi 3 hook alternativi** con meccanismi diversi e scegli il migliore.
-3. **Scrivi il post** seguendo la struttura scelta.
-4. **Passa la checklist** di `guide/08-checklist-qualita.md` e correggi.
-5. **Decidi il visual** con la tabella del file `07`. Se serve, scrivi il prompt completo partendo dal template.
-6. **Scrivi il primo commento** (facoltativo): un approfondimento, una domanda o un link, mai un "link in bio".
+   - Obiettivo: commenti | condivisioni | salvataggi
+   - Materiale reale: insight, episodio o cliente dalla cartella `dati/`
+3. **Scrivi 3 hook alternativi** con meccanismi diversi e scegli il migliore.
+4. **Scrivi il post** con la struttura scelta e la voce dell'autore.
+5. **Passa la checklist** di `guide/08-checklist-qualita.md` e correggi.
+6. **Decidi il visual** con la tabella del file `07`. Se serve, scrivi il prompt completo partendo dal template e usando i colori del brand.
+7. **Salva** in `post/<autore>/AAAA-MM-GG-slug.md`.
+
+Quantità: **a richiesta**. Se vengono chiesti più post insieme, variare autore, target e struttura.
 
 ## Formato dell'output (sempre questo)
 ```markdown
 # [Titolo interno del post]
 
-**Brief** — Target: … · Leva: … · Struttura: … · Obiettivo: …
+**Autore** — … · **Brief** — Target: … · Leva: … · Struttura: … · Obiettivo: …
+**Fonti dati** — [riga di dati/… usata, oppure "nessuna"]
 
 ## Hook alternativi
 1. …
@@ -39,7 +47,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** per Aiclo (conv
 [testo pronto da incollare]
 
 ## Visual
-Tipo: [nessuno | metafora | card trascrizione | tipografica | carosello | meme | foto reale]
+Tipo: [nessuno | metafora | card trascrizione | tipografica | carosello | meme | screenshot | foto reale]
 Prompt:
 [prompt completo, pronto da incollare nel generatore]
 (oppure: "Nessun visual: testo semplice.")
@@ -51,11 +59,14 @@ Prompt:
 [punteggio x/15 e i punti mancati]
 ```
 
-Salva ogni post generato in `post/AAAA-MM-GG-slug.md`.
-
 ## Regole non negoziabili
-- **Mai inventare** numeri, statistiche, clienti, testimonianze o citazioni. Se manca un dato, costruisci il post su un episodio o su un ragionamento, e segnala `[DATO DA INSERIRE]`.
-- Claim pubblici utilizzabili: solo quelli della tabella del file `03`, citati come "dati interni Aiclo".
-- Mai parlare male dei venditori, mai nominare i concorrenti, mai usare la paura del licenziamento come leva.
-- Mai presentare Aiclo come uno strumento di controllo.
+- **Mai inventare** numeri, statistiche, clienti, testimonianze, episodi o citazioni. Si usano solo i dati in `dati/` approvati e i claim pubblici del file `03`. Se manca un dato, segnala `[DATO DA INSERIRE]` oppure costruisci il post su un ragionamento.
+- **Il dato "63% delle vendite sul territorio" non si usa**: non ha una fonte.
+- **Aiclo quasi mai nominato**: l'obiettivo è l'engagement. Al massimo 1 post su 8 lo nomina, una sola volta e mai nella prima riga.
+- **Si provoca un pensiero, mai una persona.** Niente attacchi, niente presunzione, niente tono da "io ho capito e voi no" (vedi il file `05`).
+- Mai nominare i concorrenti, mai usare la paura del licenziamento come leva, mai presentare Aiclo come uno strumento di controllo.
+- I clienti si citano solo come previsto in `dati/clienti-e-risultati.md`.
 - In italiano. Niente parole vietate (file `05`).
+
+## Aggiungere un autore
+Copia `post/_template-autore/` in `post/nome-cognome/`, compila `profilo.md` e aggiungi l'autore alla tabella in `post/README.md`.

@@ -5,9 +5,9 @@ Guide in Markdown per generare post LinkedIn che fanno like e commenti per **Aic
 ## Come si usa
 Apri la repo con Claude (o con un altro assistente AI) e chiedi, per esempio:
 
-> "Scrivimi un post per i manager sulla formazione che non arriva in trattativa, struttura S2."
+> "Scrivimi un post per Simone sui venditori che non fanno follow-up."
 
-> "Dammi 5 post per la prossima settimana, mix come da file 02."
+> "Dammi 3 post per Andrea, uno per manager e due per venditori, strutture diverse."
 
 L'assistente segue `CLAUDE.md`, che gli dice cosa leggere, come scrivere e in che formato restituire **il testo e, se serve, il prompt per generare la grafica**.
 
@@ -23,6 +23,9 @@ L'assistente segue `CLAUDE.md`, che gli dice cosa leggere, come scrivere e in ch
 | `guide/06-hook-e-chiusure.md` | La libreria di aperture e chiusure |
 | `guide/07-prompt-grafiche.md` | Quando usare una grafica e i template dei prompt |
 | `guide/08-checklist-qualita.md` | La checklist prima di pubblicare |
+| `dati/` | Insight aggregati, clienti ed episodi reali: l'unico materiale fattuale utilizzabile |
+| `post/` | Una cartella per autore (`andrea-aureli/`, `damiano-aureli/`, `simone-continenza/`), con il `profilo.md` e i post generati. `_template-autore/` serve per aggiungerne altri |
 | `esempi/` | Post d'esempio già completi |
-| `post/` | Dove finiscono i post generati |
-| `domande-aperte.md` | Le informazioni che mancano per migliorare i post |
+| `domande-aperte.md` | Le decisioni prese e quello che manca |
+
+Obiettivo dei post: **solo engagement**. Aiclo si nomina raramente.

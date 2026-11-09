@@ -36,7 +36,7 @@ Quantità: **a richiesta**. Se vengono chiesti più post insieme, variare autore
 # [Titolo interno del post]
 
 **Autore** — … · **Brief** — Target: … · Leva: … · Struttura: … · Obiettivo: …
-**Fonti dati** — [riga di dati/… usata, "storia costruita", oppure "nessuna"]
+**Fonti dati** — [riga di dati/… usata, "storia costruita", "numero costruito", oppure "nessuna"]
 
 ## Hook alternativi
 1. …
@@ -61,7 +61,8 @@ Prompt:
 
 ## Regole non negoziabili
 - **Le storie si possono costruire.** Prima e dopo, scene di trattativa, clienti tipo, frasi di manager e venditori: si possono inventare, purché siano verosimili, anonime (mai un'azienda o una persona reale con il nome) e coerenti con il prodotto e con i clienti tipici del file `03`. I numeri dentro una singola storia (il tasso di chiusura di un venditore, il minuto di una trattativa) si possono costruire. Nell'output, alla voce **Fonti dati**, scrivi `storia costruita`, così l'autore lo sa prima di pubblicare.
-- **Le statistiche aggregate restano vere.** I numeri presentati come dati di Aiclo ("nelle 10.000 trattative che abbiamo analizzato, il X%…") vengono solo dai claim del file `03` o dalle righe approvate in `dati/`. Mai citazioni inventate attribuite a persone reali con il nome.
+- **I numeri si possono costruire**, se sono presentati come esperienza dell'autore ("su 10 'ci penso' che ricevo, ne chiudo 2"), come esempio o dentro una storia. Nell'output, alla voce **Fonti dati**, scrivi `numero costruito`, così l'autore lo verifica con la sua esperienza prima di pubblicare.
+- **Unico limite:** un numero presentato come risultato dell'analisi di Aiclo ("nelle 10.000 trattative che abbiamo analizzato, il X%…") viene solo dai claim del file `03` o dalle righe approvate in `dati/`. Mai citazioni inventate attribuite a persone reali con il nome.
 - **Il dato "63% delle vendite sul territorio" non si usa**: non ha una fonte.
 - **Aiclo quasi mai nominato**: l'obiettivo è l'engagement. Al massimo 1 post su 8 lo nomina, una sola volta e mai nella prima riga.
 - **Si provoca un pensiero, mai una persona.** Niente attacchi, niente presunzione, niente tono da "io ho capito e voi no" (vedi il file `05`).

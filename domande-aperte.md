@@ -8,7 +8,7 @@
 | Target | Nessuna priorità: si alterna fra manager e venditori |
 | Insight aggregati, clienti, episodi reali | Autorizzati → cartella `dati/` |
 | Storie (prima e dopo, episodi, clienti tipo) | Si possono costruire, verosimili e anonime → segnalate come `storia costruita` |
-| Statistiche aggregate | Solo claim del sito (misurati sui clienti) e righe approvate di `dati/` |
+| Numeri | Costruibili come esperienza dell'autore o esempio (`numero costruito`); quelli attribuiti all'analisi di Aiclo solo dai claim del sito e da `dati/` |
 | Dato 63% | Senza fonte → non si usa |
 | Brand | Preso da aiclo.io → file `07` |
 | Screenshot della piattaforma con dati demo | Autorizzati |

@@ -154,4 +154,4 @@ Le 3 che si sentono davvero più spesso nelle demo, in ordine: **prezzo**, **pri
 - Usare la paura del licenziamento come leva diretta.
 - Parlare di "controllo", "monitoraggio", "sorveglianza" in positivo.
 - Promettere risultati garantiti.
-- Inventare statistiche aggregate attribuite ad Aiclo, o frasi attribuite a persone o aziende reali con il nome. (Le storie costruite e anonime vanno bene: vedi `CLAUDE.md`.)
+- Inventare numeri presentati come risultato dell'analisi di Aiclo, o frasi attribuite a persone o aziende reali con il nome. (Le storie costruite e anonime vanno bene: vedi `CLAUDE.md`.)

@@ -75,7 +75,7 @@ Sono buoni spunti anche per i post: il dubbio sul prezzo, il tema privacy e la p
 👉 La mappa dell'empatia completa e aggressiva è nel file `04`.
 
 ## Dati oltre al sito
-- **Statistiche aggregate**: solo i claim qui sopra e le righe approvate di `dati/insight-trattative.md`.
+- **Numeri**: si possono costruire come esperienza dell'autore o come esempio (`numero costruito`). Quelli attribuiti all'analisi di Aiclo vengono solo dai claim qui sopra e dalle righe approvate di `dati/insight-trattative.md`.
 - **Storie, episodi, casi di prima e dopo**: gli episodi veri sono in `dati/`; quando mancano si possono costruire, verosimili e anonimi, coerenti con i clienti tipici (SaaS e B2B) e con i claim. Si segnalano come `storia costruita` (vedi `CLAUDE.md`).
 - Oggi non ci sono clienti con un risultato misurato da citare per nome.
 

@@ -92,5 +92,6 @@ Nessuno dei 18 autori di riferimento ha quello che ha Aiclo: **più di 10.000 tr
 I post migliori di Aiclo saranno quelli che **aprono la porta della sala riunioni**: cosa dicono davvero i clienti, cosa sbagliano davvero i venditori, quanto tempo passa davvero prima di parlare di prezzo. È la categoria C ("analisi di un caso") con un caso che solo noi possiamo vedere.
 
 ⚠️ Regola dati:
-- **Statistiche aggregate** ("nelle trattative che analizziamo, il X%…"): solo numeri **reali**, presi dai claim del file `03` o dalle righe approvate di `dati/`, citati come "dati interni Aiclo". Se un numero non c'è, si scrive `[DATO DA INSERIRE]`.
+- **Numeri**: si possono costruire se presentati come esperienza dell'autore, come esempio o dentro una storia; nell'output si segnalano come `numero costruito`.
+- **Numeri attribuiti all'analisi di Aiclo** ("nelle trattative che analizziamo, il X%…"): solo quelli dei claim del file `03` o delle righe approvate di `dati/`.
 - **Storie** (prima e dopo, scene di trattativa, clienti tipo): si possono costruire, verosimili e anonime, anche con i numeri della singola storia. Nell'output si segnalano come `storia costruita`.

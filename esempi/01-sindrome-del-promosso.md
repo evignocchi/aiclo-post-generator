@@ -1,0 +1,48 @@
+# La sindrome del promosso
+
+**Brief** — Target: Manager · Leva: ex top performer diventato manager mediocre · Struttura: S2 (concetto con un nome) · Obiettivo: condivisioni e commenti
+
+## Hook alternativi
+1. Esiste una cosa che chiamo "la sindrome del promosso".
+2. Ti hanno promosso perché vendevi. Nessuno ti ha insegnato a far vendere gli altri.
+3. Il miglior venditore dell'azienda diventa quasi sempre un manager nella media. Non è colpa sua.
+
+## Post
+Esiste una cosa che chiamo "la sindrome del promosso".
+
+Sei il miglior venditore dell'azienda. Chiudi più di tutti, i clienti ti chiedono per nome.
+Un giorno il titolare ti chiama: "Da lunedì guidi tu il team."
+
+Nessuno ti spiega come si fa.
+Così fai l'unica cosa che sai fare: vendere.
+
+Succedono tre cose.
+
+1. Le trattative difficili le chiudi tu, "perché faccio prima". Il team non impara.
+2. Il coaching lo fai a sensazione, raccontando come facevi tu. Ma tu avevi un talento, non un metodo. E il talento non si copia.
+3. Guardi i numeri a fine mese. Sai chi vende e chi no. Non sai perché.
+
+Il risultato è un team che dipende da te, e tu che lavori il doppio di prima.
+
+Il problema non sei tu. Nessun manager riesce ad ascoltare le trattative di 10 persone: in media se ne ascolta il 5%. Sul resto si va a intuito.
+
+La via d'uscita è smettere di insegnare "come facevo io" e iniziare a guardare cosa fanno davvero, trattativa per trattativa, i venditori che chiudono. Poi trasformarlo in un metodo che anche gli altri possono seguire.
+
+Eri bravo a vendere. Adesso il tuo lavoro è diventare bravo a farlo fare agli altri.
+
+## Visual
+Tipo: metafora
+Prompt:
+```
+Fotografia editoriale concettuale, luce naturale morbida, composizione minimalista,
+sfondo neutro chiaro (#F8FAFC). Soggetto: una coppa da trofeo dorata appoggiata su una
+scrivania d'ufficio, sommersa da una pila disordinata di fogli, post-it e un telefono
+che squilla. Stile realistico, still life, profondità di campo ridotta, la coppa a fuoco.
+Nessun testo nell'immagine. Formato 4:5, 1080x1350.
+```
+
+## Primo commento (facoltativo)
+Manager: quante trattative del tuo team hai ascoltato davvero questo mese? Numero vero, nessuno giudica.
+
+## Checklist
+15/15. Il 5% è un claim pubblico di Aiclo. Aiclo non viene nominato: è un post di posizionamento.

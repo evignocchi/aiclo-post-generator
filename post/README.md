@@ -1,6 +1,6 @@
 # Autori
 
-Ogni autore ha una cartella con il suo `profilo.md` e i post generati per lui (`AAAA-MM-GG-slug.md`).
+Ogni autore ha una cartella con il suo `profilo.md` e **solo i post approvati** (`AAAA-MM-GG-slug.md`, con `stato: approvato`). Le bozze stanno in `bozze/<autore>/`: vedi `bozze/README.md`.
 
 | Autore | Ruolo | Cartella | Angolo principale |
 |--------|-------|----------|-------------------|

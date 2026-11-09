@@ -2,7 +2,7 @@
 
 ## Identità
 - **Ruolo in Aiclo:** CEO & Co-founder
-- **Profilo LinkedIn:** [DA INSERIRE]
+- **Profilo LinkedIn:** https://www.linkedin.com/in/andrea-aureli-2484ab143/
 - **Background prima di Aiclo:** [DA INSERIRE] — dal sito: Aiclo "non nasce da una slide, nasce da anni sul campo"; il gruppo gestisce ogni giorno 100+ venditori e ha supportato 500+ manager.
 - **Perché lo ascoltano:** ha visto i dati di 10.000+ trattative in 30+ settori e ha guidato team commerciali veri.
 

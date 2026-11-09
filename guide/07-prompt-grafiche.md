@@ -26,9 +26,15 @@ COLORI DATI     = verde #7BD1A0 · blu #8FB8F0 · rosso #EE293A   (solo per punt
 FONT TITOLI     = Sora (bold)
 FONT TESTO      = DM Sans
 FONT DATI/LABEL = IBM Plex Mono (etichette tipo "CLIENTE · 23:14", numeri)
-LOGO            = wordmark "Aiclo" bianco (logo-white.svg), piccolo, in basso a destra
+LOGO            = simbolo (occhio stilizzato: un cerchio pieno dentro un rombo aperto a chevron)
+                  + wordmark minuscolo "aiclo" in sans-serif geometrica bold.
+                  File: brand/logo-bianco.png (su sfondo scuro), brand/logo-nero.png (su sfondo chiaro)
 FORMATO         = 1080x1350 (4:5) per il feed; 1080x1080 per i caroselli
 ```
+
+### Logo nelle grafiche
+I generatori di immagini **sbagliano i loghi**. Regola: nel prompt chiedere sempre **"lascia libero l'angolo in basso a destra, nessun logo"** e poi **sovrapporre il PNG vero** (`brand/logo-bianco.png` o `brand/logo-nero.png`) in Canva/Figma, largo circa il 15% della grafica, con un margine di 48px.
+Nei template qui sotto è già scritto così: "spazio vuoto per il logo (nessun logo generato)".
 
 Regola: **sfondo scuro + bianco + un tocco di ambra**. Le card chiare si usano solo come eccezione (per esempio una citazione su sfondo `#FEF7E0`).
 
@@ -60,7 +66,7 @@ In alto nella card un'etichetta in font monospace (IBM Plex Mono), piccola, colo
 "[BATTUTA DEL CLIENTE, max 10 parole]".
 Più in basso una seconda riga più piccola in grigio #9CA3AF, etichetta monospace "VENDITORE",
 testo: "[RISPOSTA DEL VENDITORE, max 8 parole]".
-In basso a destra il wordmark "Aiclo" bianco, piccolo. Molto spazio vuoto.
+In basso a destra spazio vuoto per il logo (nessun logo generato). Molto spazio vuoto.
 Formato 4:5, 1080x1350.
 ```
 
@@ -68,8 +74,8 @@ Formato 4:5, 1080x1350.
 ```
 Poster tipografico minimalista, sfondo quasi nero #08090B, una sola frase centrata
 in bianco, font Sora bold molto grande: "[FRASE, max 10 parole]".
-Una sola parola in ambra #F9A517. Nessun altro elemento tranne il wordmark
-"Aiclo" bianco piccolo in basso. Formato 4:5, 1080x1350.
+Una sola parola in ambra #F9A517. Nessun altro elemento; lasciare vuoto
+l'angolo in basso a destra per il logo (nessun logo generato). Formato 4:5, 1080x1350.
 ```
 
 ## Template D — Infografica / slide di carosello (per S6)

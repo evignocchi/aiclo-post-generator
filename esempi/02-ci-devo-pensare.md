@@ -43,7 +43,7 @@ In alto nella card un'etichetta in font monospace (IBM Plex Mono), piccola, colo
 "Mi lasci il preventivo, ci penso."
 Più in basso una seconda riga più piccola in grigio #9CA3AF, etichetta monospace "VENDITORE",
 testo: "Certo, nessun problema."
-In basso a destra il wordmark "Aiclo" bianco, piccolo. Molto spazio vuoto.
+In basso a destra spazio vuoto per il logo (nessun logo generato). Molto spazio vuoto.
 Formato 4:5, 1080x1350.
 ```
 

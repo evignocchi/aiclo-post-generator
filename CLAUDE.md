@@ -5,7 +5,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 **Obiettivo unico: engagement** (reazioni, commenti, condivisioni). Non si vendono demo. Il post deve valere anche per chi non comprerà mai Aiclo.
 
 ## Prima di scrivere, leggi
-1. `post/<autore>/profilo.md`: chi firma il post, la sua voce, i suoi temi **(obbligatorio)**
+1. `post/<autore>/profilo.md` (e `post-pubblicati.md`, se c'è): chi firma il post, la sua voce, i suoi temi **(obbligatorio)**
 2. `guide/02-anatomia-post-vincente.md`: le 10 leggi e le 6 strutture **(obbligatorio)**
 3. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
 4. `guide/05-tono-di-voce.md`: come parli e fin dove si può provocare **(obbligatorio)**

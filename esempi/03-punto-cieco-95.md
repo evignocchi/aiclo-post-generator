@@ -33,7 +33,7 @@ Prompt:
 Poster tipografico minimalista, sfondo quasi nero #08090B, una sola frase centrata
 in bianco, font Sora bold molto grande, su due righe: "Sai chi vende. / Non sai perché."
 La parola "perché" in ambra #F9A517. Nessun altro elemento tranne
-il wordmark "Aiclo" bianco piccolo in basso al centro. Formato 4:5, 1080x1350.
+spazio vuoto per il logo (nessun logo generato) in basso al centro. Formato 4:5, 1080x1350.
 ```
 
 ## Primo commento (facoltativo)

@@ -2,7 +2,7 @@
 
 ## Identità
 - **Ruolo in Aiclo:** Co-founder
-- **Profilo LinkedIn:** [DA INSERIRE]
+- **Profilo LinkedIn:** https://www.linkedin.com/in/damiano-aureli-a71558182/
 - **Background prima di Aiclo:** [DA INSERIRE]
 - **Perché lo ascoltano:** [DA INSERIRE]
 

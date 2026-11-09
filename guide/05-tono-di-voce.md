@@ -54,7 +54,8 @@ rivoluzionario, game changer, nel panorama odierno, in un mondo in cui, sfida, v
 - Emoji: zero o una. Mai in apertura.
 - Hashtag: zero, oppure massimo 3 in fondo.
 - Link esterni: mai nel corpo del post (LinkedIn li penalizza). Se servono, nel primo commento.
-- Lunghezza: 150-300 parole (vedi file `02`).
+- Lunghezza: 120-200 parole, massimo 250 (vedi il file `09`).
+- Niente trattino lungo (—) nel testo del post.
 
 ## Lingua
 Italiano, per il mercato italiano. Se serve una versione inglese, si scrive da zero e non si traduce.

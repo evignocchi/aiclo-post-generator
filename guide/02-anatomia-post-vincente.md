@@ -7,15 +7,17 @@ Questa è la sintesi delle peculiarità del file `01`. Ogni post generato deve r
 1. **Una scena, un numero o un'accusa nella prima riga.** Massimo 12-15 parole. Deve funzionare anche da sola, prima del "…altro".
 2. **Un nemico.** Una credenza sbagliata, un'abitudine stupida, uno status quo. Mai un concorrente con nome e cognome, mai il cliente.
 3. **Pelle in gioco.** Prima persona singolare, da qualcuno che ha visto le trattative. "Ho ascoltato", "abbiamo analizzato", "un direttore commerciale mi ha detto".
-4. **Un numero verificabile ogni 80-100 parole.** Numeri dispari e precisi (37%, 4 su 11, 2 minuti) battono quelli tondi.
+4. **Uno o due numeri, tradotti.** Numeri dispari e precisi (37%, 4 su 11, 2 minuti) battono quelli tondi, ma ognuno va tradotto in qualcosa che si sente (un voto in pagella, euro, ore). Meglio un numero tradotto che quattro in fila (file `09`).
 5. **Un'idea sola.** Se servono due idee, servono due post.
 6. **Dare un nome alla cosa.** Un concetto ripetibile ("il punto cieco del 95%", "il venditore-fantasma", "la trattativa del giovedì").
-7. **Prosa breve, a capo spesso.** Righe di 1-2 frasi. Niente muri di testo, niente elenchi pieni di emoji. Liste solo se numerate e brevi (3-5 voci).
-8. **150-300 parole.** Sotto i 100 solo per i meme o le provocazioni secche.
+7. **Prosa breve, ritmo che si alterna.** Paragrafi di 1-3 frasi, una frase lunga e una corta. La riga da sola solo per i colpi. Niente muri di testo, niente elenchi: le liste numerate solo nella S6.
+8. **120-200 parole** (massimo 250 per una storia che regge). Si scrive, poi si taglia il 30%. Sotto i 100 solo per i meme o le provocazioni secche.
 9. **Chiusura in una frase.** Si deve poter citare. Niente "Cosa ne pensate? 👇", a meno che la domanda non sia specifica e divisiva (vedi file `06`).
 10. **Il prodotto, al massimo, è una comparsa.** L'obiettivo è solo l'engagement: in 7 post su 8 Aiclo non si nomina. Nell'ottavo si nomina **una volta**, come contesto ("nelle trattative che analizziamo") o dentro una storia.
 
 ## Le 6 strutture (template astratti)
+
+> Le strutture servono per **pensare** il post, non per scriverlo: se il lettore riconosce le caselle, il post è noioso. I passaggi "cosa fare invece" e "cosa fare da domani" sono facoltativi (obbligatori solo nella S6) e la frase finale non riassume: chiude la domanda aperta nella prima riga. Vedi il file `09`.
 
 ### S1 — Il ribaltamento (cat. A)
 ```

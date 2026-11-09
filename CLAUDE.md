@@ -5,6 +5,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 **Obiettivo unico: engagement** (reazioni, commenti, condivisioni). Non si vendono demo. Il post deve valere anche per chi non comprerà mai Aiclo.
 
 ## Prima di scrivere, leggi
+0. `guide/09-stile-copy.md`: come si scrive un post che si legge fino in fondo **(obbligatorio; se un'altra regola rende il post più noioso, vince questo file)**
 1. `post/<autore>/profilo.md` (e `post-pubblicati.md`, se c'è): chi firma il post, la sua voce, i suoi temi **(obbligatorio)**
 2. `guide/02-anatomia-post-vincente.md`: le 10 leggi e le 6 strutture **(obbligatorio)**
 3. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
@@ -24,8 +25,8 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
    - Obiettivo: commenti | condivisioni | salvataggi
    - Materiale reale: insight, episodio o cliente dalla cartella `dati/`
 3. **Scrivi 3 hook alternativi** con meccanismi diversi e scegli il migliore.
-4. **Scrivi il post** con la struttura scelta e la voce dell'autore.
-5. **Passa la checklist** di `guide/08-checklist-qualita.md` e correggi.
+4. **Scrivi il post** con la struttura scelta e la voce dell'autore, seguendo il file `09`: prima decidi la domanda che apri nella prima riga e la riga in cui la chiudi. La struttura serve per pensare, non si compila casella per casella.
+5. **Taglia il 30%**, poi passa la checklist di `guide/08-checklist-qualita.md` e i 4 test del file `09` (noia, taglio, scivolo, bar). Correggi.
 6. **Decidi il visual** con la tabella del file `07` e rispetta **le 12 regole per una visual che ferma lo scroll** (stesso file). Se serve, scrivi il prompt completo partendo dal template e usando i colori del brand. Alterna i tipi: mai tre post di fila con la stessa card scura.
 7. **Salva** in `post/<autore>/AAAA-MM-GG-slug.md`.
 
@@ -57,7 +58,7 @@ Anomalia: [cosa c'è di storto o di strano che ferma il pollice, in una riga]
 …
 
 ## Checklist
-[punteggio x/15 e i punti mancati]
+[punteggio x/19 e i punti mancati]
 ```
 
 ## Regole non negoziabili

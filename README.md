@@ -24,8 +24,11 @@ L'assistente segue `CLAUDE.md`, che gli dice cosa leggere, come scrivere e in ch
 | `guide/07-prompt-grafiche.md` | Quando usare una grafica e i template dei prompt |
 | `guide/08-checklist-qualita.md` | La checklist prima di pubblicare |
 | `brand/` | Logo (nero e bianco) da sovrapporre alle grafiche |
+| `guide/09-pattern-approvati.md` | Le lezioni imparate dai post approvati (si aggiorna con la skill `impara`) |
+| `bozze/` | Tutti i post generati, prima dell'approvazione |
+| `scripts/` | Approvare (`approva.py`), registrare i numeri (`metriche.py`), controllare (`controlla_post.py`), analizzare i pattern (`analizza_pattern.py`) |
 | `dati/` | Insight aggregati (l'unica fonte di statistiche oltre ai claim del sito), episodi e clienti da usare come spunto |
-| `post/` | Una cartella per autore (`andrea-aureli/`, `damiano-aureli/`, `simone-continenza/`), con il `profilo.md` e i post generati. `_template-autore/` serve per aggiungerne altri |
+| `post/` | Solo i post approvati. Una cartella per autore (`andrea-aureli/`, `damiano-aureli/`, `simone-continenza/`), con il `profilo.md` e i post generati. `_template-autore/` serve per aggiungerne altri |
 | `esempi/` | Post d'esempio già completi |
 | `domande-aperte.md` | Le decisioni prese e quello che manca |
 

@@ -1,3 +1,16 @@
+---
+stato: approvato
+autore: simone-continenza
+approvato_il: 2026-11-09
+pubblicato_il:
+link:
+impression:
+reazioni:
+commenti:
+condivisioni:
+salvataggi:
+---
+
 # Bravissimi a farci voler bene: implicazioni 1,5 su 5
 
 **Autore** — Simone Continenza · **Brief** — Target: Venditore · Leva: Le provvigioni lasciate sul tavolo · Struttura: S3 Confessione (dal campo) · Obiettivo: commenti
@@ -50,6 +63,7 @@ Tipo: scritto a mano (Template K), generata.
 
 - Da pubblicare: `img/2026-11-09-implicazioni-1-5-con-logo.png` (logo nero in basso a destra, 15% della larghezza, margine 48px)
 - Originale senza logo: `img/2026-11-09-implicazioni-1-5.webp`
+- Anteprima di come esce nel feed: `img/2026-11-09-implicazioni-1-5-anteprima.png`
 - Controllato: i quattro numeri e le virgole sono giusti (2,7 · 2,8 · 3,2 · 1,5).
 
 Alternativa ancora più forte, se Simone ha 5 minuti: rifarla con una foto vera alla lavagna, magari con lui di spalle con il pennarello in mano (Template L).
@@ -88,3 +102,20 @@ Venditori: qual è la domanda che sapete di dover fare in trattativa e che salta
 - ✅ Voce di Simone: da campo, da collega, ironia asciutta.
 
 Nota: i numeri delle righe 3-4 sono del team commerciale di Aiclo, quelli della riga 9 delle aziende clienti, e il post li cita così. Il punteggio personale di Simone non è usato: se vuole renderlo ancora più forte, può aggiungere il suo, che però va deciso da lui.
+
+## Cosa è cambiato dalla bozza
+Righe del post cambiate fra la prima bozza e la versione approvata (servono per imparare: vedi `guide/09`).
+
+Tolte:
+- ~~Abbiamo dato un voto alle nostre trattative. In una fase prendiamo 1,5 su 5.~~
+- ~~Contesto: di mestiere vendo un software che analizza le trattative.~~
+- ~~Un giorno l'abbiamo puntato su di noi.~~
+- ~~343 trattative del nostro team, metodo SPIN.~~
+- ~~Tradotto: siamo bravi a farci raccontare il problema. E a farci voler bene.~~
+
+Aggiunte:
+- Il mio team è bravissimo a farsi voler bene. Ed è proprio questo il problema.
+- Lo so perché gli abbiamo dato un voto.
+- Di mestiere vendo un software che analizza le trattative: un giorno l'abbiamo puntato su di noi.
+- 343 trattative, metodo SPIN.
+- Tradotto: il cliente ci racconta il problema e si trova bene con noi.

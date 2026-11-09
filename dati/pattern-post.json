@@ -1,0 +1,34 @@
+[
+  {
+    "file": "post/simone-continenza/2026-11-09-implicazioni-1-5.md",
+    "autore": "simone-continenza",
+    "approvato_il": "2026-11-09",
+    "pubblicato_il": "",
+    "target": "Venditore",
+    "leva": "Le provvigioni lasciate sul tavolo",
+    "struttura": "S3 Confessione (dal campo)",
+    "obiettivo": "commenti",
+    "hook_meccanismo": "Ribaltamento",
+    "prima_riga": "Il mio team è bravissimo a farsi voler bene. Ed è proprio questo il problema.",
+    "parole_prima_riga": 15,
+    "parole": 195,
+    "righe": 20,
+    "numeri": 7,
+    "domande": 2,
+    "nomina_aiclo": false,
+    "chiusura": "Il rapport ti fa entrare. Le implicazioni ti fanno firmare.",
+    "visual_tipo": "scritto a mano (Template K), generata.",
+    "visual_anomalia": "tre voti \"normali\" e un 1,5 cerchiato in rosso, come alla lavagna di scuola.",
+    "visual_prompt": "Fotografia realistica di una lavagna bianca in una piccola sala riunioni di un'azienda italiana,\nripresa di 3/4 con luce naturale da una finestra a sinistra, formato verticale 4:5, 1080x1350.\nScritto a pennarello nero, grafia vera, un po' storta, quattro righe una sotto l'altra:\n\"Situazione 2,7\"\n\"Problema 2,8\"\n\"Rapport 3,2\"\n\"Implicazioni 1,5\"\nIl numero \"1,5\" è cerchiato tre volte con un pennarello rosso, con una freccia che lo indica.\nUn pennarello color ambra #F9A517 appoggiato sul bordo della lavagna. Vecchie cancellature appena visibili sullo sfondo.\nNessuna persona, nessun altro testo. Profondità di campo ridotta sul cerchio rosso.\nLasciare libero l'angolo in basso a destra per il logo (nessun logo generato).",
+    "visual_foto_vera": false,
+    "modifiche_dalla_bozza": "Righe del post cambiate fra la prima bozza e la versione approvata (servono per imparare: vedi `guide/09`).\n\nTolte:\n- ~~Abbiamo dato un voto alle nostre trattative. In una fase prendiamo 1,5 su 5.~~\n- ~~Contesto: di mestiere vendo un software che analizza le trattative.~~\n- ~~Un giorno l'abbiamo puntato su di noi.~~\n- ~~343 trattative del nostro team, metodo SPIN.~~\n- ~~Tradotto: siamo bravi a farci raccontare il problema. E a farci voler bene.~~\n\nAggiunte:\n- Il mio team è bravissimo a farsi voler bene. Ed è proprio questo il problema.\n- Lo so perché gli abbiamo dato un voto.\n- Di mestiere vendo un software che analizza le trattative: un giorno l'abbiamo puntato su di noi.\n- 343 trattative, metodo SPIN.\n- Tradotto: il cliente ci racconta il problema e si trova bene con noi.",
+    "metriche": {
+      "impression": "",
+      "reazioni": "",
+      "commenti": "",
+      "condivisioni": "",
+      "salvataggi": ""
+    },
+    "punteggio": null
+  }
+]

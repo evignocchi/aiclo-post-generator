@@ -6,17 +6,18 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 
 ## Prima di scrivere, leggi
 1. `post/<autore>/profilo.md` (e `post-pubblicati.md`, se c'è): chi firma il post, la sua voce, i suoi temi **(obbligatorio)**
-2. `guide/02-anatomia-post-vincente.md`: le 10 leggi e le 6 strutture **(obbligatorio)**
-3. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
-4. `guide/05-tono-di-voce.md`: come parli e fin dove si può provocare **(obbligatorio)**
-5. `guide/06-hook-e-chiusure.md`: i meccanismi per l'apertura e la chiusura
-6. `dati/`: insight aggregati (solo le righe con `Approvato: sì`), episodi e clienti da usare come spunto
-7. `guide/03-icp-aiclo.md`: il prodotto e i claim pubblici
-8. `guide/07-prompt-grafiche.md`: brand e prompt, solo se il post richiede un visual
-9. `guide/01-analisi-post-benchmark.md`: per approfondire perché le regole sono queste
+2. `guide/09-pattern-approvati.md`: le lezioni imparate dai post approvati **(obbligatorio, valgono più degli esempi generici)**
+3. `guide/02-anatomia-post-vincente.md`: le 10 leggi e le 6 strutture **(obbligatorio)**
+4. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
+5. `guide/05-tono-di-voce.md`: come parli e fin dove si può provocare **(obbligatorio)**
+6. `guide/06-hook-e-chiusure.md`: i meccanismi per l'apertura e la chiusura
+7. `dati/`: insight aggregati (solo le righe con `Approvato: sì`), episodi e clienti da usare come spunto
+8. `guide/03-icp-aiclo.md`: il prodotto e i claim pubblici
+9. `guide/07-prompt-grafiche.md`: brand e prompt, solo se il post richiede un visual
+10. `guide/01-analisi-post-benchmark.md`: per approfondire perché le regole sono queste
 
 ## Procedura
-1. **Autore.** Se l'utente non lo indica, chiedilo. Leggi il suo `profilo.md` e gli ultimi 5 post nella sua cartella, per non ripetere temi, hook o strutture.
+1. **Autore.** Se l'utente non lo indica, chiedilo. Leggi il suo `profilo.md` e gli ultimi 5 post in `post/<autore>/` (approvati) e in `bozze/<autore>/`, per non ripetere temi, hook o strutture.
 2. **Brief** (se l'utente non lo dà, sceglilo tu e scrivilo in testa all'output):
    - Target: Manager | Venditore. **Alternali**: guarda gli ultimi post dell'autore e scegli il target meno usato di recente.
    - Leva emotiva (dalla tabella del file `04`)
@@ -27,7 +28,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 4. **Scrivi il post** con la struttura scelta e la voce dell'autore.
 5. **Passa la checklist** di `guide/08-checklist-qualita.md` e correggi.
 6. **Decidi il visual** con la tabella del file `07` e rispetta **le 12 regole per una visual che ferma lo scroll** (stesso file). Se serve, scrivi il prompt completo partendo dal template e usando i colori del brand. Alterna i tipi: mai tre post di fila con la stessa card scura.
-7. **Salva** in `post/<autore>/AAAA-MM-GG-slug.md`.
+7. **Salva la bozza** in `bozze/<autore>/AAAA-MM-GG-slug.md` (immagini in `bozze/<autore>/img/`), fai commit e push. **Mai** salvare direttamente in `post/`: lì entrano solo i post approvati, con `scripts/approva.py`.
 
 Quantità: **a richiesta**. Se vengono chiesti più post insieme, variare autore, target e struttura.
 
@@ -71,5 +72,10 @@ Anomalia: [cosa c'è di storto o di strano che ferma il pollice, in una riga]
 - I clienti si citano solo come previsto in `dati/clienti-e-risultati.md`.
 - In italiano. Niente parole vietate (file `05`).
 
+## Approvare, misurare, imparare
+- **Approva** (skill `approva`): `python3 scripts/approva.py bozze/<autore>/<file>.md` sposta la bozza in `post/<autore>/` con `stato: approvato` e salva cosa è cambiato rispetto alla prima bozza. `scripts/controlla_post.py` (e la GitHub Action) blocca qualsiasi file non approvato in `post/`.
+- **Misura**: dopo la pubblicazione, `python3 scripts/metriche.py post/<autore>/<file>.md --reazioni N --commenti N --condivisioni N --impression N`.
+- **Impara** (skill `impara`): analizza i post approvati e aggiorna `guide/09-pattern-approvati.md`; quando le prove bastano, porta le lezioni nelle guide di scrittura (02, 05, 06) e nei prompt delle immagini (07).
+
 ## Aggiungere un autore
-Copia `post/_template-autore/` in `post/nome-cognome/`, compila `profilo.md` e aggiungi l'autore alla tabella in `post/README.md`.
+Copia `post/_template-autore/` in `post/nome-cognome/`, crea `bozze/nome-cognome/`, compila `profilo.md` e aggiungi l'autore alla tabella in `post/README.md`.

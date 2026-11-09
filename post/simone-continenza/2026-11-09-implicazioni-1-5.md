@@ -42,15 +42,19 @@ Da domani nel mio team la domanda è una: «E se non cambia niente, fra sei mesi
 Il rapport ti fa entrare. Le implicazioni ti fanno firmare.
 
 ## Visual
-Tipo: scritto a mano (Template K), meglio ancora foto vera (Template L).
+Tipo: scritto a mano (Template K), generata.
 
-**Opzione A, consigliata: foto vera (5 minuti).**
-Simone scrive su una lavagna (o un foglio a quadretti) a pennarello:
-Situazione 2,7 · Problema 2,8 · Rapport 3,2 · Implicazioni 1,5.
-Poi cerchia **1,5** tre volte in rosso e ci tira una freccia. Foto col telefono, verticale, di 3/4, luce naturale. Se vuole, c'è anche lui di spalle o con il pennarello in mano. Logo vero sovrapposto in basso a destra.
+**Immagine scelta, pronta da pubblicare (con il logo):**
 
-**Opzione B: generata.**
-Prompt:
+![Lavagna con i punteggi e 1,5 cerchiato in rosso](img/2026-11-09-implicazioni-1-5-con-logo.png)
+
+- Da pubblicare: `img/2026-11-09-implicazioni-1-5-con-logo.png` (logo nero in basso a destra, 15% della larghezza, margine 48px)
+- Originale senza logo: `img/2026-11-09-implicazioni-1-5.webp`
+- Controllato: i quattro numeri e le virgole sono giusti (2,7 · 2,8 · 3,2 · 1,5).
+
+Alternativa ancora più forte, se Simone ha 5 minuti: rifarla con una foto vera alla lavagna, magari con lui di spalle con il pennarello in mano (Template L).
+
+Prompt usato:
 ```
 Fotografia realistica di una lavagna bianca in una piccola sala riunioni di un'azienda italiana,
 ripresa di 3/4 con luce naturale da una finestra a sinistra, formato verticale 4:5, 1080x1350.
@@ -65,8 +69,6 @@ Nessuna persona, nessun altro testo. Profondità di campo ridotta sul cerchio ro
 Lasciare libero l'angolo in basso a destra per il logo (nessun logo generato).
 ```
 Anomalia: tre voti "normali" e un 1,5 cerchiato in rosso, come alla lavagna di scuola.
-
-Controlli: verificare che i numeri e le virgole siano scritti giusti (se no, correggerli in Canva); sovrapporre `brand/logo-bianco.png` o `logo-nero.png` a seconda dello sfondo, circa 15% della larghezza, margine 48px.
 
 ## Primo commento (facoltativo)
 Venditori: qual è la domanda che sapete di dover fare in trattativa e che saltate quasi sempre? La mia era quella sulle conseguenze.

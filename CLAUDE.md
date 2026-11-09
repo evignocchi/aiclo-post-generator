@@ -10,7 +10,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 3. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
 4. `guide/05-tono-di-voce.md`: come parli e fin dove si può provocare **(obbligatorio)**
 5. `guide/06-hook-e-chiusure.md`: i meccanismi per l'apertura e la chiusura
-6. `dati/`: insight, clienti ed episodi reali utilizzabili (solo le righe con `Approvato: sì`)
+6. `dati/`: insight aggregati (solo le righe con `Approvato: sì`), episodi e clienti da usare come spunto
 7. `guide/03-icp-aiclo.md`: il prodotto e i claim pubblici
 8. `guide/07-prompt-grafiche.md`: brand e prompt, solo se il post richiede un visual
 9. `guide/01-analisi-post-benchmark.md`: per approfondire perché le regole sono queste
@@ -36,7 +36,7 @@ Quantità: **a richiesta**. Se vengono chiesti più post insieme, variare autore
 # [Titolo interno del post]
 
 **Autore** — … · **Brief** — Target: … · Leva: … · Struttura: … · Obiettivo: …
-**Fonti dati** — [riga di dati/… usata, oppure "nessuna"]
+**Fonti dati** — [riga di dati/… usata, "storia costruita", oppure "nessuna"]
 
 ## Hook alternativi
 1. …
@@ -60,7 +60,8 @@ Prompt:
 ```
 
 ## Regole non negoziabili
-- **Mai inventare** numeri, statistiche, clienti, testimonianze, episodi o citazioni. Si usano solo i dati in `dati/` approvati e i claim pubblici del file `03`. Se manca un dato, segnala `[DATO DA INSERIRE]` oppure costruisci il post su un ragionamento.
+- **Le storie si possono costruire.** Prima e dopo, scene di trattativa, clienti tipo, frasi di manager e venditori: si possono inventare, purché siano verosimili, anonime (mai un'azienda o una persona reale con il nome) e coerenti con il prodotto e con i clienti tipici del file `03`. I numeri dentro una singola storia (il tasso di chiusura di un venditore, il minuto di una trattativa) si possono costruire. Nell'output, alla voce **Fonti dati**, scrivi `storia costruita`, così l'autore lo sa prima di pubblicare.
+- **Le statistiche aggregate restano vere.** I numeri presentati come dati di Aiclo ("nelle 10.000 trattative che abbiamo analizzato, il X%…") vengono solo dai claim del file `03` o dalle righe approvate in `dati/`. Mai citazioni inventate attribuite a persone reali con il nome.
 - **Il dato "63% delle vendite sul territorio" non si usa**: non ha una fonte.
 - **Aiclo quasi mai nominato**: l'obiettivo è l'engagement. Al massimo 1 post su 8 lo nomina, una sola volta e mai nella prima riga.
 - **Si provoca un pensiero, mai una persona.** Niente attacchi, niente presunzione, niente tono da "io ho capito e voi no" (vedi il file `05`).

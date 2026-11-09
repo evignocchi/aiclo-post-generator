@@ -44,7 +44,7 @@ Questa è la sintesi delle peculiarità del file `01`. Ogni post generato deve r
 [Frase finale con un riferimento pop o un'immagine]
 ```
 
-### S4 — Dentro la trattativa (cat. C, adattata ad Aiclo: il "caso" è una trattativa reale anonimizzata)
+### S4 — Dentro la trattativa (cat. C, adattata ad Aiclo: il "caso" è una trattativa anonima, reale o costruita)
 ```
 [Scena: minuto X di una trattativa, cosa ha detto il cliente]
 [Cosa ha risposto il venditore (l'errore o la mossa geniale)]
@@ -91,4 +91,6 @@ Lanci di prodotto: **praticamente mai** (obiettivo = engagement). Se proprio ser
 Nessuno dei 18 autori di riferimento ha quello che ha Aiclo: **più di 10.000 trattative reali analizzate in più di 30 settori.**
 I post migliori di Aiclo saranno quelli che **aprono la porta della sala riunioni**: cosa dicono davvero i clienti, cosa sbagliano davvero i venditori, quanto tempo passa davvero prima di parlare di prezzo. È la categoria C ("analisi di un caso") con un caso che solo noi possiamo vedere.
 
-⚠️ Regola dati: si usano solo numeri **reali** presi dalla cartella `dati/` (righe approvate) o i claim pubblici di aiclo.io, citati come "dati interni Aiclo". **Mai inventare statistiche.** Se un numero non c'è, il post si scrive con un ragionamento e si segnala `[DATO DA INSERIRE]`, mai con un dato finto.
+⚠️ Regola dati:
+- **Statistiche aggregate** ("nelle trattative che analizziamo, il X%…"): solo numeri **reali**, presi dai claim del file `03` o dalle righe approvate di `dati/`, citati come "dati interni Aiclo". Se un numero non c'è, si scrive `[DATO DA INSERIRE]`.
+- **Storie** (prima e dopo, scene di trattativa, clienti tipo): si possono costruire, verosimili e anonime, anche con i numeri della singola storia. Nell'output si segnalano come `storia costruita`.

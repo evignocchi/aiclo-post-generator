@@ -10,8 +10,8 @@ Un post si pubblica solo con **almeno 15 sì su 17**, e i punti contrassegnati c
 - [ ] ⛔ Il post contiene **una sola idea**.
 - [ ] C'è un nemico chiaro: una credenza, un'abitudine o uno status quo.
 - [ ] C'è almeno un numero o un dettaglio concreto ogni 100 parole.
-- [ ] ⛔ Ogni numero è reale (claim pubblici Aiclo o righe approvate in `dati/`). Nessuna statistica inventata.
-- [ ] ⛔ Nessuna testimonianza inventata. Gli episodi sono reali o dichiaratamente anonimizzati.
+- [ ] ⛔ Ogni statistica presentata come dato di Aiclo è reale (claim del file `03` o righe approvate in `dati/`).
+- [ ] ⛔ Le storie costruite sono verosimili e anonime (nessuna azienda o persona reale con il nome) e sono segnalate come `storia costruita` nelle Fonti dati.
 - [ ] Il target (manager o venditore) è chiaro dalle prime 3 righe.
 - [ ] Tocca almeno una leva della mappa dell'empatia (file `04`).
 

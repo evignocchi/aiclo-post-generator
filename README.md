@@ -24,7 +24,7 @@ L'assistente segue `CLAUDE.md`, che gli dice cosa leggere, come scrivere e in ch
 | `guide/07-prompt-grafiche.md` | Quando usare una grafica e i template dei prompt |
 | `guide/08-checklist-qualita.md` | La checklist prima di pubblicare |
 | `brand/` | Logo (nero e bianco) da sovrapporre alle grafiche |
-| `dati/` | Insight aggregati, clienti ed episodi reali: l'unico materiale fattuale utilizzabile |
+| `dati/` | Insight aggregati (l'unica fonte di statistiche oltre ai claim del sito), episodi e clienti da usare come spunto |
 | `post/` | Una cartella per autore (`andrea-aureli/`, `damiano-aureli/`, `simone-continenza/`), con il `profilo.md` e i post generati. `_template-autore/` serve per aggiungerne altri |
 | `esempi/` | Post d'esempio già completi |
 | `domande-aperte.md` | Le decisioni prese e quello che manca |

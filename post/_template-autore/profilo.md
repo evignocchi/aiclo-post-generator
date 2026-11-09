@@ -19,7 +19,7 @@
 - **Strutture preferite (S1-S6):** 
 
 ## Storie vere utilizzabili
-Episodi personali reali, raccontati con le sue parole. Il generatore li usa solo da qui.
+Episodi personali, raccontati con le sue parole. Hanno la precedenza; se mancano, il generatore può costruire una storia verosimile e la segnala come `storia costruita`.
 
 | # | Storia in 2-3 righe | Leva | Già usata in |
 |---|---------------------|------|--------------|

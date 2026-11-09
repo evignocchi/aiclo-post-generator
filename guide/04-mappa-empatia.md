@@ -62,12 +62,13 @@
 - **Sentirsi di nuovo bravo nel proprio lavoro.**
 
 ## Obiezioni verso Aiclo
-- "I miei venditori non accetteranno di essere registrati." → *crescita, non controllo; consenso; i dati sono loro.*
+Le 3 che si sentono davvero più spesso nelle demo, in ordine: **prezzo**, **privacy**, **"i miei venditori non lo useranno"** (vedi file `03`).
+- "Costa." → *quanto ti costa un venditore che chiude la metà di quello che potrebbe?*
+- "Privacy/GDPR." → *dati in UE, nessuno di Aiclo legge le conversazioni.*
+- "I miei venditori non lo useranno / non accetteranno di essere registrati." → *è uno strumento per il venditore: scrive le email di follow-up, sincronizza le note nel CRM, analizza la vendita. Crescita, non controllo.*
 - "I miei sono sul territorio, non fanno videocall." → *è l'unica che registra anche dal vivo.*
 - "Ho già il CRM." → *il CRM ti dice cosa è successo, non come.*
 - "L'AI non capisce il mio settore." → *scorecard sul tuo metodo, oltre 30 settori.*
-- "Privacy/GDPR." → *dati in UE, nessuno di Aiclo legge le conversazioni.*
-- "Costa." → *quanto ti costa un venditore che chiude la metà di quello che potrebbe?*
 
 ---
 
@@ -153,4 +154,4 @@
 - Usare la paura del licenziamento come leva diretta.
 - Parlare di "controllo", "monitoraggio", "sorveglianza" in positivo.
 - Promettere risultati garantiti.
-- Inventare testimonianze o statistiche.
+- Inventare statistiche aggregate attribuite ad Aiclo, o frasi attribuite a persone o aziende reali con il nome. (Le storie costruite e anonime vanno bene: vedi `CLAUDE.md`.)

@@ -1,6 +1,6 @@
 # 08 — Checklist prima di pubblicare
 
-Un post si pubblica solo con **almeno 15 sì su 17**, e i punti contrassegnati con ⛔ sono obbligatori.
+Un post si pubblica solo con **almeno 17 sì su 19**, e i punti contrassegnati con ⛔ sono obbligatori.
 
 ## Gancio
 - [ ] La prima riga sta sotto le 15 parole ed è una scena, un numero o un'accusa.
@@ -13,7 +13,8 @@ Un post si pubblica solo con **almeno 15 sì su 17**, e i punti contrassegnati c
 - [ ] ⛔ I numeri attribuiti all'analisi di Aiclo sono reali (claim del file `03` o righe approvate in `dati/`); quelli costruiti sono presentati come esperienza o esempio e segnalati come `numero costruito`.
 - [ ] ⛔ Le storie costruite sono verosimili e anonime (nessuna azienda o persona reale con il nome) e sono segnalate come `storia costruita` nelle Fonti dati.
 - [ ] Il target (manager o venditore) è chiaro dalle prime 3 righe.
-- [ ] Tocca almeno una leva della mappa dell'empatia (file `04`).
+- [ ] Tocca almeno una leva delle mappe dell'empatia (file `04a`, `04b` o `04c`).
+- [ ] Se usa una paura etichettata **Ipotesi**, la usa come scena o come domanda, non come verità generale.
 
 ## Forma
 - [ ] 150-300 parole (salvo meme o provocazioni).
@@ -23,6 +24,7 @@ Un post si pubblica solo con **almeno 15 sì su 17**, e i punti contrassegnati c
 
 ## Chiusura, prodotto e tono
 - [ ] La chiusura è una frase sola, che si può citare.
+- [ ] ⛔ Chi commenta ne esce bene: il post e il primo commento non chiedono confessioni in prima persona, e non ci sono affermazioni legali.
 - [ ] ⛔ Aiclo è nominato al massimo una volta e mai nella prima riga, e nella maggior parte dei post non è nominato affatto.
 - [ ] ⛔ Provoca un pensiero, non attacca nessuno. Nessuna frase presuntuosa o che fa sentire stupido chi legge.
 - [ ] La voce corrisponde al `profilo.md` dell'autore.

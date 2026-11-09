@@ -42,7 +42,7 @@ Nessun testo nell'immagine. Formato 4:5, 1080x1350.
 ```
 
 ## Primo commento (facoltativo)
-Manager: quante trattative del tuo team hai ascoltato davvero questo mese? Numero vero, nessuno giudica.
+Qual è il consiglio più utile che avete ricevuto quando vi hanno affidato un team? E da chi è arrivato?
 
 ## Checklist
-17/17. Il 5% è un claim pubblico di Aiclo. Aiclo non è nominato. Nessuno viene accusato: il problema è la situazione ("nessuno ti spiega come si fa"), non il manager.
+19/19. Il 5% è un dato interno Aiclo, usato come media e non come statistica di mercato. Il primo commento chiede di raccontare un consiglio ricevuto, che fa fare bella figura, invece di confessare un limite. Aiclo non è nominato. Nessuno viene accusato: il problema è la situazione ("nessuno ti spiega come si fa"), non il manager.

@@ -31,13 +31,17 @@ Sono **misurati sui clienti** (confermato dal team), quindi si usano con tranqui
 
 | Claim | Uso nei post |
 |-------|--------------|
-| I manager ascoltano solo il **5%** delle trattative. Il **95%** è un punto cieco. | Il nostro nemico numero 1. Concetto da ripetere: **"il punto cieco del 95%"**. |
+| I manager ascoltano solo il **5%** delle trattative. Il **95%** è un punto cieco. | Il nostro nemico numero 1. Concetto da ripetere: **"il punto cieco del 95%"**. Si cita come dato interno Aiclo ("nei team che seguiamo"), non come statistica di mercato. |
 | **100%** delle trattative analizzate | Contrapposto al 5% |
 | **−80%** di tempo dedicato al coaching | Post per i manager |
 | **+25%** di conversioni medie | Come prova finale, senza promettere risultati garantiti |
 | **+33%** di produttività dei venditori (meno note, ricerche e follow-up a mano) | Post per i venditori |
 | **10.000+** trattative analizzate, **30+** settori, **200+** team | Autorevolezza ("abbiamo visto…") |
 | ~~63% delle vendite in Europa avviene sul territorio~~ | ⛔ **Non usare**: nessuna fonte disponibile |
+| ~~Il venditore passa circa il 40% del tempo a vendere (Salesforce)~~ | ⛔ **Non usare** finché non si controlla il report originale |
+| ~~Ore settimanali dedicate al coaching~~ | ⛔ **Non usare**: le fonti si contraddicono (da 13 ore a meno del 10%) |
+
+I claim +25%, +33% e −80% sono **dati interni**: vanno sempre dichiarati come tali.
 | Unica piattaforma pensata anche per chi vende dal vivo | Differenziante: "gli altri tool funzionano solo in videocall" |
 
 ## ICP — profilo dell'azienda
@@ -72,7 +76,17 @@ Sono **misurati sui clienti** (confermato dal team), quindi si usano con tranqui
 
 Sono buoni spunti anche per i post: il dubbio sul prezzo, il tema privacy e la paura del controllo sono gli stessi che ha il lettore.
 
-👉 La mappa dell'empatia completa e aggressiva è nel file `04`.
+👉 Le mappe dell'empatia complete sono nei file `04a` (manager) e `04b` (venditore). Lo scontro fra i due e il terreno comune sono nel file `04c`. La ricerca di partenza, con le fonti, è in `ricerca/profilo-target.md`.
+
+## Cosa cambia in Italia
+| Tratto | Cosa implica per i contenuti | Base |
+|--------|------------------------------|------|
+| Il titolare è presente | Spesso il manager ha il proprietario a una porta di distanza. La pressione ha un volto, e i post possono parlare di quel rapporto | Ipotesi |
+| Vendita dal vivo e relazione | Il caffè, la stretta di mano e il cliente di famiglia sono identità. Trattare il dal vivo come un limite irrita; riconoscerne il valore crea complicità | Sito + Ipotesi |
+| Reti di agenti | Gli agenti sono autonomi: il manager ha meno potere di imporre uno strumento. Agli agenti si parla di guadagno personale | Ipotesi |
+| Art. 4 dello Statuto dei lavoratori | Per i dipendenti, gli strumenti che consentono anche un controllo a distanza richiedono in genere accordo sindacale o autorizzazione, più informativa. Tema che interessa molto i manager, ma **ogni post che lo tocca va rivisto da un legale** | Ricerca |
+| «Venditori si nasce» | Credenza diffusa che assolve tutti: azienda, manager e chi non vende. Divide le persone ed è perfetta per il dibattito | Ipotesi |
+| Fastidio per l'inglese da software | "Conversation intelligence" e "insight" allontanano chi dice "trattativa", "appuntamento" e "portafoglio". L'italiano e l'origine italiana sono un valore | Sito + Ipotesi |
 
 ## Dati oltre al sito
 - **Numeri**: si possono costruire come esperienza dell'autore o come esempio (`numero costruito`). Quelli attribuiti all'analisi di Aiclo vengono solo dai claim qui sopra e dalle righe approvate di `dati/insight-trattative.md`.

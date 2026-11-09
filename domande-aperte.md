@@ -22,4 +22,10 @@
 3. **Damiano Aureli**: su cosa è più credibile? (L'angolo nel profilo è provvisorio.)
 4. **Generatore di immagini**: quale strumento usate (Midjourney, Gemini, Ideogram, ChatGPT, Canva…)? Serve per adattare la sintassi dei prompt.
 5. **Profili degli autori**: LinkedIn blocca la lettura automatica dei profili. Servono il testo del profilo (headline, informazioni, esperienze) e 5-10 post recenti per ogni autore, incollati o salvati in `post/<autore>/post-pubblicati.md`.
-6. **Logo**: ✅ ricevuto (`brand/`). Se esiste in SVG o a risoluzione più alta, sostituire i PNG.
+6. **Ipotesi da verificare** (da `ricerca/profilo-target.md`):
+   - Il manager teme che i dati mostrino un suo limite → colloqui riservati con clienti nei primi mesi; riascolto delle demo in cui compare esitazione.
+   - Il venditore teme di essere scoperto sulle scorciatoie → colloqui uno a uno, senza il manager.
+   - La sostituibilità pesa meno dell'inaffidabilità dello strumento → due post gemelli (file `02`, sezione Test).
+   - I 4 tipi di venditore sono davvero distinti → confronto con le obiezioni raccolte dal Customer Success negli onboarding.
+   - Il gergo inglese allontana il pubblico italiano → A/B dello stesso post.
+7. **Logo**: ✅ ricevuto (`brand/`). Se esiste in SVG o a risoluzione più alta, sostituire i PNG.

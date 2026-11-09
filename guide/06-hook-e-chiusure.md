@@ -45,7 +45,20 @@ Gli hook sono modellati sui meccanismi dei post di riferimento (vedi file `01`).
 | **Chiusura secca** (da #16) | "Chapeau." / "Tutto qui." / "Punto." |
 | **Domanda divisiva specifica** | "Registreresti le tue trattative se lo vedessi solo tu? Sì o no, senza 'dipende'." |
 
-## Domande per i commenti (usarle solo se specifiche)
-- "Qual è la frase che i tuoi clienti dicono di più prima di sparire?"
-- "Manager: quante trattative del tuo team hai ascoltato questo mese? Numero vero."
-- "Venditori: preferite un feedback vero dal capo o da un'AI che lo vedete solo voi?"
+## Le 6 leve per i commenti
+Regola: **il commento deve far fare bella figura a chi lo scrive.** Mai chiedere una confessione in prima persona.
+
+| Leva | Perché fa commentare | Domanda / apertura d'esempio |
+|------|----------------------|------------------------------|
+| **Schierarsi** | Manager e venditori hanno interessi opposti e possono prendere posizione senza esporsi | "Registreresti tutte le trattative del tuo team? Sì o no, e perché." |
+| **Difesa dell'identità** | Tocca una convinzione su cui la persona ha costruito la carriera | "«Ha talento» è la spiegazione più comoda che un'azienda possa darsi." |
+| **Racconto di guerra** | Chi risponde dimostra esperienza e si diverte | "Qual è la scusa più creativa che hai sentito dopo una trattativa persa?" |
+| **"Parla di me"** | Descrive una scena precisa che il lettore ha vissuto | "Il lunedì chiedi com'è andata. Ti raccontano una versione. Da lì decidi." |
+| **Nemico comune** | Unisce senza accusare nessuno dei presenti | "Il CRM compilato alle dieci di sera, in macchina, per qualcuno che non lo leggerà." |
+| **Confessione spostata** | Si parla della paura attraverso un terzo, o l'autore confessa per primo | "Il feedback più inutile che ti abbia dato un capo. Comincio io." |
+
+Altre domande per i commenti:
+- "Qual è la frase che i tuoi clienti dicono più spesso prima di sparire?" (racconto di guerra)
+- "Venditori: un feedback vero dal capo o da uno strumento che lo vedete solo voi?" (schierarsi)
+
+Altri spunti pronti: file `09`.

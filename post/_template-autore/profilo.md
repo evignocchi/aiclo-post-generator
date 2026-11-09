@@ -16,7 +16,7 @@
 ## Temi
 - **Temi principali (70%):** 
 - **Temi secondari (30%):** 
-- **Strutture preferite (S1-S6):** 
+- **Strutture preferite (S1-S7):** 
 
 ## Storie vere utilizzabili
 Episodi personali, raccontati con le sue parole. Hanno la precedenza; se mancano, il generatore può costruire una storia verosimile e la segnala come `storia costruita`.

@@ -12,7 +12,7 @@ Il tono base vale per tutti. Ogni autore ha poi le sue sfumature, descritte in `
 | Frasi brevi. Spesso brevissime. | Periodi da 4 righe con 3 subordinate |
 | Parole del campo: trattativa, appuntamento, provvigione, il titolare, il cliente "ci deve pensare" | Inglesismi da LinkedIn: "leverage", "game changer", "mindset", "sinergie" |
 | Numeri precisi | "Tantissimi", "moltissimi", "incredibile" |
-| Contrapposizioni nette, usate con misura (massimo 1-2 per post) | Una contrapposizione "non X, ma Y" in ogni paragrafo |
+| Contrapposizioni nette, usate con misura (massimo 1-2 per post) | Una contrapposizione "non X, ma Y" in ogni paragrafo (il sito la usa molto: nei post, ripetuta, suona costruita) |
 | Ironia asciutta | Emoji a pioggia, 🚀🔥💡 |
 | Domanda finale **specifica e divisiva**, se serve | "Cosa ne pensate? 👇" / "Sei d'accordo?" |
 | Dire "trattativa" | Dire "deal" nei post in italiano (ok solo citando qualcuno) |
@@ -36,16 +36,31 @@ Regole:
 - Nessuna polemica con persone, aziende, concorrenti o post di altri.
 - Niente politica.
 
+## Linee rosse
+- **Prendersela con la situazione, mai con il lettore**: chi si sente umiliato si difende o se ne va.
+- **Non chiedere confessioni in prima persona** ("quante trattative hai ascoltato davvero?"). Usare la confessione spostata (file `04c`).
+- **Mai scrivere che i venditori mentono.** Le scorciatoie del mestiere si toccano solo con ironia e complicità.
+- **Nessuna affermazione legale** (Statuto dei lavoratori, privacy, consenso) senza la revisione di un legale.
+- Mai usare la paura del licenziamento come leva.
+- Mai presentare la registrazione come uno strumento di controllo.
+- Mai promettere risultati garantiti.
+- Mai numeri inventati presentati come risultato dell'analisi di Aiclo, mai frasi attribuite a persone o aziende reali. Storie e numeri costruiti vanno bene se anonimi e segnalati (vedi `CLAUDE.md`).
+
 ## Lessico Aiclo da ripetere (diventa riconoscibile)
-- **il punto cieco del 95%**
-- **dati, non opinioni** / **dati, non sensazioni**
+- **il punto cieco del 95%** (dato interno Aiclo, vedi file `03`)
+- **fatti, non opinioni** / **fatti, non sensazioni**
 - **crescita, non controllo**
 - **dal campo, non dalla teoria**
 - **la trattativa** (non "la call", non "il meeting")
 - **il metodo dei migliori diventa del team**
 
-## Parole vietate (sanno di AI o di marketing)
-rivoluzionario, game changer, nel panorama odierno, in un mondo in cui, sfida, viaggio, potenziare, sbloccare, ecosistema, sinergia, a 360°, fondamentale, cruciale, "ecco perché" come apertura, "Spoiler:", "Plot twist:", "Facciamo un passo indietro".
+## Parole da usare (le parole del campo)
+trattativa, appuntamento, zona, provvigione, portafoglio, preventivo, obiezione, fine mese, listino, «ci penso», il titolare, la classifica.
+
+Con i venditori: "scorecard" dice poco e "pagella" funziona solo con ironia. Meglio "la valutazione della trattativa" o "il feedback".
+
+## Parole vietate (sanno di AI, di software o di marketing)
+insight, data-driven, enablement, revenue intelligence, conversation intelligence (nei post), leverage, rivoluzionario, game changer, nel panorama odierno, in un mondo in cui, sfida, viaggio, potenziare, sbloccare, ecosistema, sinergia, a 360°, fondamentale, cruciale, "ecco perché" come apertura, "Spoiler:", "Plot twist:", "Facciamo un passo indietro".
 
 ## Formattazione
 - Riga 1: il gancio. Riga 2: vuota.

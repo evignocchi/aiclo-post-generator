@@ -6,21 +6,23 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 
 ## Prima di scrivere, leggi
 1. `post/<autore>/profilo.md` (e `post-pubblicati.md`, se c'è): chi firma il post, la sua voce, i suoi temi **(obbligatorio)**
-2. `guide/02-anatomia-post-vincente.md`: le 10 leggi e le 6 strutture **(obbligatorio)**
-3. `guide/04-mappa-empatia.md`: a chi parli e quale nervo tocchi **(obbligatorio)**
+2. `guide/02-anatomia-post-vincente.md`: le 11 leggi e le 7 strutture **(obbligatorio)**
+3. `guide/04a-manager.md` o `guide/04b-venditore.md` (a seconda del target) e `guide/04c-scontro-e-terreno-comune.md`: a chi parli, quale nervo tocchi, come far commentare **(obbligatorio)**
 4. `guide/05-tono-di-voce.md`: come parli e fin dove si può provocare **(obbligatorio)**
-5. `guide/06-hook-e-chiusure.md`: i meccanismi per l'apertura e la chiusura
+5. `guide/06-hook-e-chiusure.md` e `guide/09-banca-spunti.md`: aperture, chiusure, leve per i commenti e spunti pronti
 6. `dati/`: insight aggregati (solo le righe con `Approvato: sì`), episodi e clienti da usare come spunto
 7. `guide/03-icp-aiclo.md`: il prodotto e i claim pubblici
 8. `guide/07-prompt-grafiche.md`: brand e prompt, solo se il post richiede un visual
-9. `guide/01-analisi-post-benchmark.md`: per approfondire perché le regole sono queste
+9. `guide/01-analisi-post-benchmark.md` e `ricerca/profilo-target.md`: per approfondire perché le regole sono queste
 
 ## Procedura
 1. **Autore.** Se l'utente non lo indica, chiedilo. Leggi il suo `profilo.md` e gli ultimi 5 post nella sua cartella, per non ripetere temi, hook o strutture.
 2. **Brief** (se l'utente non lo dà, sceglilo tu e scrivilo in testa all'output):
-   - Target: Manager | Venditore. **Alternali**: guarda gli ultimi post dell'autore e scegli il target meno usato di recente.
-   - Leva emotiva (dalla tabella del file `04`)
-   - Struttura: S1-S6 o Meme
+   - Target: Manager | Venditore | Entrambi. **Alternali**: guarda gli ultimi post dell'autore e scegli il target meno usato di recente.
+   - Sotto-target (facoltativo): titolare-manager, manager promosso, oppure uno dei 4 venditori (fuoriclasse, chi sta crescendo, veterano sul campo, chi è in difficoltà)
+   - Leva emotiva (dalle tabelle dei file `04a`/`04b`/`04c`)
+   - Leva per i commenti (una delle 6 del file `06`)
+   - Struttura: S1-S7 o Meme
    - Obiettivo: commenti | condivisioni | salvataggi
    - Materiale reale: insight, episodio o cliente dalla cartella `dati/`
 3. **Scrivi 3 hook alternativi** con meccanismi diversi e scegli il migliore.
@@ -35,7 +37,7 @@ Quantità: **a richiesta**. Se vengono chiesti più post insieme, variare autore
 ```markdown
 # [Titolo interno del post]
 
-**Autore** — … · **Brief** — Target: … · Leva: … · Struttura: … · Obiettivo: …
+**Autore** — … · **Brief** — Target: … · Leva: … · Leva commenti: … · Struttura: … · Obiettivo: …
 **Fonti dati** — [riga di dati/… usata, "storia costruita", "numero costruito", oppure "nessuna"]
 
 ## Hook alternativi
@@ -57,7 +59,7 @@ Anomalia: [cosa c'è di storto o di strano che ferma il pollice, in una riga]
 …
 
 ## Checklist
-[punteggio x/15 e i punti mancati]
+[punteggio x/19 e i punti mancati]
 ```
 
 ## Regole non negoziabili
@@ -67,6 +69,11 @@ Anomalia: [cosa c'è di storto o di strano che ferma il pollice, in una riga]
 - **Il dato "63% delle vendite sul territorio" non si usa**: non ha una fonte.
 - **Aiclo quasi mai nominato**: l'obiettivo è l'engagement. Al massimo 1 post su 8 lo nomina, una sola volta e mai nella prima riga.
 - **Si provoca un pensiero, mai una persona.** Niente attacchi, niente presunzione, niente tono da "io ho capito e voi no" (vedi il file `05`).
+- **Chi commenta deve uscirne bene**: mai chiedere confessioni in prima persona, usare la confessione spostata.
+- **Mai scrivere che i venditori mentono**; le scorciatoie solo con ironia.
+- **Nessuna affermazione legale** (Statuto dei lavoratori, privacy, consenso) senza revisione di un legale.
+- Le paure etichettate **Ipotesi** si usano come scena o domanda, mai come verità generale. Le frasi ricostruite dei file `04a`/`04b` si possono usare dentro una storia costruita, mai attribuite a una persona reale.
+- Il 5% si cita come dato interno Aiclo ("nei team che seguiamo"), non come statistica di mercato.
 - Mai nominare i concorrenti, mai usare la paura del licenziamento come leva, mai presentare Aiclo come uno strumento di controllo.
 - I clienti si citano solo come previsto in `dati/clienti-e-risultati.md`.
 - In italiano. Niente parole vietate (file `05`).

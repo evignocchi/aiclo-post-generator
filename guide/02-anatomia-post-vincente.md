@@ -1,8 +1,8 @@
 # 02 — Anatomia del post vincente (sintesi incrociata)
 
-Questa è la sintesi delle peculiarità del file `01`. Ogni post generato deve rispettare **le 10 leggi** e usare **una delle 6 strutture**.
+Questa è la sintesi delle peculiarità del file `01`. Ogni post generato deve rispettare **le 11 leggi** e usare **una delle 7 strutture**.
 
-## Le 10 leggi
+## Le 11 leggi
 
 1. **Una scena, un numero o un'accusa nella prima riga.** Massimo 12-15 parole. Deve funzionare anche da sola, prima del "…altro".
 2. **Un nemico.** Una credenza sbagliata, un'abitudine stupida, uno status quo. Mai un concorrente con nome e cognome, mai il cliente.
@@ -15,7 +15,9 @@ Questa è la sintesi delle peculiarità del file `01`. Ogni post generato deve r
 9. **Chiusura in una frase.** Si deve poter citare. Niente "Cosa ne pensate? 👇", a meno che la domanda non sia specifica e divisiva (vedi file `06`).
 10. **Il prodotto, al massimo, è una comparsa.** L'obiettivo è solo l'engagement: in 7 post su 8 Aiclo non si nomina. Nell'ottavo si nomina **una volta**, come contesto ("nelle trattative che analizziamo") o dentro una storia.
 
-## Le 6 strutture (template astratti)
+11. **Il commento deve far fare bella figura a chi lo scrive.** In pubblico nessuno ammette una paura: leggono il capo, i colleghi e i clienti. Si chiede di raccontare, schierarsi o insegnare, mai di confessare in prima persona (vedi file `04c` e `06`).
+
+## Le 7 strutture (template astratti)
 
 ### S1 — Il ribaltamento (cat. A)
 ```
@@ -71,21 +73,38 @@ Questa è la sintesi delle peculiarità del file `01`. Ogni post generato deve r
 [Chiusura: "salvalo" implicito; il post deve valere la pena di essere salvato]
 ```
 
+### S7 — Due versioni (target: entrambi, dal file `04c`)
+```
+[La stessa cosa vista da due lati: "Per il manager è X. Per il venditore è Y."]
+[La lettura del manager, raccontata con rispetto (cosa ci guadagna, cosa teme)]
+[La lettura del venditore, raccontata con rispetto]
+[Il punto in cui hanno ragione tutti e due]
+[La domanda che divide, per schierarsi: "Tu da che parte stai, e perché?"]
+```
+Funziona sui temi della tabella "Lo scontro" e su quelli del "terreno comune". Non si dà ragione a nessuno dei due.
+
 ## Mix editoriale consigliato (su 10 post)
 
 | Struttura | Quanti | Obiettivo |
 |-----------|-------:|-----------|
 | S1 Ribaltamento | 2 | Commenti, posizionamento |
-| S2 Concetto con nome | 2 | Condivisioni, reach |
-| S3 Confessione manager | 2 | Commenti dei manager (ICP) |
+| S2 Concetto con nome | 1 | Condivisioni, reach |
+| S3 Confessione manager | 1 | Commenti dei manager (ICP) |
 | S4 Dentro la trattativa | 2 | Autorevolezza (è il nostro asset unico: 10.000+ trattative analizzate) |
 | S5 Storia dal campo | 1 | Umanità, fiducia nel brand |
 | S6 Formula / strumento | 1 | Salvataggi |
+| S7 Due versioni | 2 | Commenti da entrambe le parti |
 | Meme / provocazione secca | bonus | Reach verso i venditori |
 
 Lanci di prodotto: **praticamente mai** (obiettivo = engagement). Se proprio servono, dentro una S4 o una S5.
 
-**Target:** nessuna priorità fissa. Si alterna fra manager e venditori, a seconda del tema; ogni autore non dovrebbe fare più di 2 post di fila per lo stesso target.
+**Target:** nessuna priorità fissa. Si alterna fra manager, venditori ed entrambi, a seconda del tema; ogni autore non dovrebbe fare più di 2 post di fila per lo stesso target.
+
+## Test: verificare le ipotesi con i post
+Molte paure dei file `04a` e `04b` sono **ipotesi**. Si verificano con i post stessi:
+- **Post gemelli:** stesso tema e stessa struttura, una leva diversa (es. "paura di diventare sostituibile" vs "paura che la macchina non capisca"). Si confrontano reazioni e soprattutto il tono dei commenti.
+- **A/B di linguaggio:** lo stesso post in italiano "da campo" e con qualche termine inglese da software.
+- I risultati si annotano in `ricerca/risultati-test.md` e le guide si aggiornano di conseguenza.
 
 ## L'asset sleale di Aiclo
 Nessuno dei 18 autori di riferimento ha quello che ha Aiclo: **più di 10.000 trattative reali analizzate in più di 30 settori.**

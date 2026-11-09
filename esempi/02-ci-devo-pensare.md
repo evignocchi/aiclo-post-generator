@@ -51,4 +51,4 @@ Formato 4:5, 1080x1350.
 Venditori: qual è la frase che i vostri clienti dicono più spesso prima di sparire?
 
 ## Checklist
-16/17. Manca un numero reale: con un dato vero da `dati/insight-trattative.md` (es. "in X trattative su 100 con 'ci penso'…") il post diventa più forte. → `[DATO DA INSERIRE]`
+18/19. Manca un numero reale: con un dato vero da `dati/insight-trattative.md` (es. "in X trattative su 100 con 'ci penso'…") il post diventa più forte. → `[DATO DA INSERIRE]`

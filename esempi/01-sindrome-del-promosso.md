@@ -5,30 +5,28 @@
 ## Hook alternativi
 1. Esiste una cosa che chiamo "la sindrome del promosso".
 2. Ti hanno promosso perché vendevi. Nessuno ti ha insegnato a far vendere gli altri.
-3. Mi hanno detto "da lunedì guidi tu il team". Nessuno mi ha detto come.
+3. Venerdì era il miglior venditore dell'azienda. Lunedì era un manager in difficoltà.
+
+Scelto il **n. 3**: è una scena con un salto che non si spiega (cosa è successo nel weekend?). Il n. 1 annuncia un concetto ma non apre nessuna domanda.
+
+**Anello aperto:** "come si passa da migliore a manager in difficoltà in un weekend?". Si chiude nell'ultima riga.
 
 ## Post
-Esiste una cosa che chiamo "la sindrome del promosso".
+Venerdì era il miglior venditore dell'azienda. Lunedì era un manager in difficoltà.
 
-Sei il miglior venditore dell'azienda. Chiudi più di tutti, i clienti ti chiedono per nome.
-Un giorno il titolare ti chiama: "Da lunedì guidi tu il team."
+In mezzo c'è una telefonata del titolare: «Da lunedì guidi tu il team.» Nessuna spiegazione, nessun corso. Solo le chiavi.
 
-Nessuno ti spiega come si fa.
-Così fai l'unica cosa che sai fare: vendere.
+Così fa l'unica cosa che sa fare benissimo: vendere.
+La trattativa difficile di Giulia? «Vengo io, faccio prima.» Quella di Paolo, pure.
+A fine mese i numeri tengono. Lui è in macchina fino alle nove di sera, e il team non ha imparato niente.
 
-Succedono tre cose.
+Quando prova a insegnare, racconta come faceva lui. Ma lui aveva un talento, non un metodo, e il talento a voce non passa.
 
-1. Le trattative difficili le chiudi tu, "perché faccio prima". Il team non impara.
-2. Il coaching lo fai a sensazione, raccontando come facevi tu. Ma tu avevi un talento, non un metodo. E il talento non si copia.
-3. Guardi i numeri a fine mese. Sai chi vende e chi no. Non sai perché.
+Io la chiamo la sindrome del promosso. La vedo spesso nelle aziende che incontriamo.
 
-Il risultato è un team che dipende da te, e tu che lavori il doppio di prima.
+Nessuno riesce ad ascoltare le trattative di dieci persone: in media un manager ne sente il 5%, una su venti. Allora insegna l'unica cosa che conosce bene: se stesso.
 
-Il problema non sei tu. Nessun manager riesce ad ascoltare le trattative di 10 persone: in media se ne ascolta il 5%. Sul resto si va a intuito.
-
-La via d'uscita è smettere di insegnare "come facevo io" e iniziare a guardare cosa fanno davvero, trattativa per trattativa, i venditori che chiudono. Poi trasformarlo in un metodo che anche gli altri possono seguire.
-
-Eri bravo a vendere. Adesso il tuo lavoro è diventare bravo a farlo fare agli altri.
+Non è diventato un cattivo manager. È rimasto un ottimo venditore, con un team intorno.
 
 ## Visual
 Tipo: metafora
@@ -45,4 +43,4 @@ Nessun testo nell'immagine. Formato 4:5, 1080x1350.
 Manager: quante trattative del tuo team hai ascoltato davvero questo mese? Numero vero, nessuno giudica.
 
 ## Checklist
-17/17. Il 5% è un claim pubblico di Aiclo. Aiclo non è nominato. Nessuno viene accusato: il problema è la situazione ("nessuno ti spiega come si fa"), non il manager.
+**19/19**. Anello aperto chiuso nell'ultima riga. Scena con tre battute tra « ». Il 5% è un claim pubblico di Aiclo, tradotto in "una su venti". Storia costruita, anonima. Circa 170 parole, nessuna lista: le "tre conseguenze" della S2 sono diventate tre momenti della storia (le trattative chiuse da lui, il talento che non passa, il 5%). Aiclo non è nominato. Nessuno viene accusato: il problema è la situazione ("nessuna spiegazione, nessun corso"), non il manager.

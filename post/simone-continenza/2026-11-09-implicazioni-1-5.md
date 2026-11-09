@@ -8,38 +8,32 @@
 2. **Scena:** Il cliente ci racconta il problema. Noi annuiamo. E passiamo subito alla demo.
 3. **Ribaltamento:** Il mio team è bravissimo a farsi voler bene. Ed è proprio questo il problema.
 
-Scelto il **n. 3**: è un complimento che diventa un'accusa, e la curiosità ("perché sarebbe un problema?") porta al "…altro". L'accusa è al team di Simone, non a chi legge. Il numero 1,5 arriva subito dopo, come prova.
+Scelto il **n. 3**: è un complimento che diventa un'accusa, e la curiosità ("perché sarebbe un problema?") porta al "…altro". L'accusa è al team di Simone, non a chi legge.
+
+**Anello aperto:** "perché farsi voler bene sarebbe un problema?". Si chiude solo nell'ultima riga.
+
+> **Versione 2**, riscritta con `guide/09-stile-copy.md`. La versione 1 (220 parole, con i quattro voti in fila e la domanda da usare "da domani") è nella cronologia git.
 
 ## Post
 Il mio team è bravissimo a farsi voler bene. Ed è proprio questo il problema.
 
-Lo so perché gli abbiamo dato un voto.
-Di mestiere vendo un software che analizza le trattative: un giorno l'abbiamo puntato su di noi.
+Vendiamo un software che dà i voti alle trattative. Un giorno l'abbiamo puntato su di noi: 343 trattative, metodo SPIN, voti da 1 a 5.
 
-343 trattative, metodo SPIN.
-Situazione: 2,7.
-Problema: 2,8.
-Rapport: 3,2.
-Implicazioni: 1,5.
+Sul rapport prendiamo 3,2. Il cliente si trova bene, si apre, ci racconta tutto.
+Sulle implicazioni prendiamo 1,5. In pagella sarebbe un 3.
 
-Tradotto: il cliente ci racconta il problema e si trova bene con noi.
-Poi, proprio quando dovremmo chiedere «e questo quanto vi costa?», partiamo con la demo.
+Le implicazioni sono la domanda scomoda, quella su quanto costa il problema. E noi la saltiamo così:
 
-Il cliente dice: «I miei venditori compilano il CRM la sera, a memoria.»
-Noi: «Perfetto, le faccio vedere come funziona.»
+«I miei venditori compilano il CRM la sera, a memoria» dice il cliente.
+«Perfetto, le faccio vedere come funziona» diciamo noi.
 
-Pensavo fosse un difetto nostro.
-Poi ho guardato le aziende clienti che seguiamo: in 7 su 10 l'apertura prende almeno un punto in più della parte in cui si scava.
+Il problema è sul tavolo. Quanto gli costa, nessuno lo chiede.
 
-Non è pigrizia. È educazione.
-Chiedere le conseguenze sembra mettere il dito nella piaga, e a nessuno piace farlo con uno sconosciuto.
+Non è pigrizia. È che quella domanda rovina il clima, e il clima l'avevamo costruito così bene.
 
-Ma senza quella domanda il cliente un problema ce l'ha.
-Un motivo per risolverlo adesso, no.
+Pensavo fosse un vizio nostro. Poi ho guardato le aziende clienti che seguiamo: in 7 su 10 la parte in cui ci si fa voler bene prende almeno un punto in più della parte in cui si scava.
 
-Da domani nel mio team la domanda è una: «E se non cambia niente, fra sei mesi dove siete?»
-
-Il rapport ti fa entrare. Le implicazioni ti fanno firmare.
+Farsi voler bene è facile. Il mestiere è chiedere quanto costa il problema e restare simpatici lo stesso.
 
 ## Visual
 Tipo: scritto a mano (Template K), generata.
@@ -74,17 +68,20 @@ Anomalia: tre voti "normali" e un 1,5 cerchiato in rosso, come alla lavagna di s
 Venditori: qual è la domanda che sapete di dover fare in trattativa e che saltate quasi sempre? La mia era quella sulle conseguenze.
 
 ## Checklist
-**17/17**
+**19/19**
 - ✅ Prima riga di 15 parole, un'accusa (rivolta al proprio team); funziona da sola.
-- ✅ Una sola idea: saltiamo la domanda sulle conseguenze.
+- ✅ Anello aperto ("perché sarebbe un problema?") chiuso solo nell'ultima riga.
+- ✅ Una sola idea: saltiamo la domanda su quanto costa il problema, per non rovinare il clima.
 - ✅ Nemico: l'abitudine di passare alla demo appena il cliente racconta il problema.
-- ✅ Numeri reali e approvati (righe 3, 4 e 9 di `dati/insight-trattative.md`), uno ogni 50-80 parole.
-- ✅ Nessuna testimonianza inventata; la battuta sul CRM è una situazione tipo, nessun cliente riconoscibile.
+- ✅ Numeri reali e approvati (righe 3, 4 e 9 di `dati/insight-trattative.md`); l'1,5 è tradotto in pagella (1,5/5 = 3/10).
+- ✅ Scena con due battute tra « » (situazione tipo, nessun cliente riconoscibile).
 - ✅ Target venditore chiaro dalle prime righe; leva: le provvigioni lasciate sul tavolo.
-- ✅ Circa 220 parole, paragrafi brevi, zero emoji, nessuna parola vietata, nessun link.
-- ✅ Chiusura in una frase, citabile.
-- ✅ Aiclo non nominato (solo "un software che analizza le trattative").
-- ✅ L'errore è nostro, non del lettore. Due contrapposizioni in tutto ("Non è pigrizia. È educazione." e la chiusura).
+- ✅ Circa 170 parole, nessuna lista, nessuna morale spiegata, nessun "da domani".
+- ✅ Zero emoji, nessuna parola vietata, nessun trattino lungo, nessun link.
+- ✅ Chiusura in una frase, citabile, che risponde all'apertura.
+- ✅ Aiclo non nominato (solo "un software che dà i voti alle trattative").
+- ✅ L'errore è nostro, non del lettore. Due contrapposizioni in tutto.
+- ✅ I 4 test del file `09`.
 - ✅ Voce di Simone: da campo, da collega, ironia asciutta.
 
-Nota: i numeri delle righe 3-4 sono del team commerciale di Aiclo, quelli della riga 9 delle aziende clienti, e il post li cita così. Il punteggio personale di Simone non è usato: se vuole renderlo ancora più forte, può aggiungere il suo, che però va deciso da lui.
+Nota: i numeri delle righe 3-4 sono del team commerciale di Aiclo, quelli della riga 9 delle aziende clienti, e il post li cita così. La lavagna della visual mostra tutti e quattro i voti SPIN: il testo ne cita due, l'immagine aggiunge il resto.

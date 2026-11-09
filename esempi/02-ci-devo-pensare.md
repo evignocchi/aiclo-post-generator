@@ -5,32 +5,30 @@
 > ⚠️ Esempio illustrativo: la scena è costruita per mostrare la struttura. Nei post veri si usa un episodio reale preso da `dati/episodi-trattative.md`.
 
 ## Hook alternativi
-1. Minuto 41. Il cliente dice: "Mi lasci il preventivo, ci penso". La trattativa finisce lì.
+1. Minuto 41. Il cliente dice: «Mi lasci il preventivo, ci penso.»
 2. "Ci devo pensare" non è un'obiezione. È un no detto con educazione.
 3. La trattativa non l'hai persa quando il cliente ha detto "ci penso". L'hai persa 30 minuti prima.
 
+Scelto il **n. 1**: è una scena che ogni venditore ha vissuto. Il n. 3 è più forte come idea, ma dà subito la risposta; qui diventa la chiusura.
+
+**Anello aperto:** "quando si è persa davvero questa trattativa?". Si chiude nell'ultima riga.
+
 ## Post
-Minuto 41. Il cliente dice: "Mi lasci il preventivo, ci penso".
+Minuto 41. Il cliente dice: «Mi lasci il preventivo, ci penso.»
 
-Il venditore risponde: "Certo, nessun problema. La richiamo giovedì".
+Il venditore sorride: «Certo, nessun problema. La richiamo giovedì.»
 
-Giovedì il cliente non risponde. Né il venerdì. Né mai.
+Giovedì il cliente non risponde. Venerdì nemmeno. Dopo tre mesi, nel CRM la trattativa diventa «persa per il prezzo».
 
-Nel CRM la trattativa resta "in valutazione" per tre mesi, poi diventa "persa per il prezzo".
+Il prezzo non c'entra. Riascoltala dall'inizio.
 
-Il prezzo però non c'entra.
+Minuto 12. Il cliente dice: «Poi ne parlo con il mio socio.» Il venditore annuisce e va avanti con la presentazione. Nessuno chiede chi è il socio, cosa gli interessa, se può esserci la prossima volta.
 
-"Ci devo pensare" quasi mai significa che il cliente deve pensarci. Di solito vuol dire una di queste tre cose:
+Da lì in poi il venditore sta convincendo la persona sbagliata. Per mezz'ora.
 
-1. Non ho capito perché dovrei spendere questi soldi adesso.
-2. Non sono io che decido e non ho il coraggio di dirtelo.
-3. C'è qualcosa che non mi convince e non te lo dirò.
+«Ci devo pensare» è quasi sempre questo: la risposta educata a una domanda che non abbiamo fatto.
 
-Tutte e tre si potevano scoprire prima: con una domanda sul perché proprio adesso, con una su chi altro decide, con una su cosa lo frena.
-
-Quando arriva il "ci penso" è tardi. Ma non è finita: chiedi "Su cosa in particolare?" e stai zitto. Il silenzio dopo quella domanda vale più di qualsiasi tecnica di chiusura.
-
-"Ci devo pensare" è il modo più gentile che ha un cliente per dirti che hai saltato un passaggio.
+La trattativa è finita al minuto 12. Al minuto 41 ce l'hanno solo detto.
 
 ## Visual
 Tipo: card trascrizione
@@ -48,7 +46,9 @@ Formato 4:5, 1080x1350.
 ```
 
 ## Primo commento (facoltativo)
+Se vi è già successo: la prossima volta che sentite «ci penso», chiedete «Su cosa in particolare?» e state zitti. Il silenzio dopo quella domanda vale più di qualsiasi tecnica di chiusura.
+
 Venditori: qual è la frase che i vostri clienti dicono più spesso prima di sparire?
 
 ## Checklist
-16/17. Manca un numero reale: con un dato vero da `dati/insight-trattative.md` (es. "in X trattative su 100 con 'ci penso'…") il post diventa più forte. → `[DATO DA INSERIRE]`
+**19/19**. Anello aperto chiuso nell'ultima riga. Scena con quattro battute tra « ». Storia costruita, anonima. Circa 150 parole: la lista dei "tre significati di ci penso" è sparita, ne resta uno solo raccontato dentro la storia (chi decide). Il consiglio pratico è passato nel primo commento. Nessun numero di Aiclo: con un dato vero da `dati/insight-trattative.md` (per esempio la riga 10, chi decide) il post diventa più forte. Aiclo non è nominato.

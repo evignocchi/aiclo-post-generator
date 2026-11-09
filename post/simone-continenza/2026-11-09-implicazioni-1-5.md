@@ -1,4 +1,4 @@
-# Implicazioni 1,5 su 5: ci siamo dati un voto
+# Bravissimi a farci voler bene: implicazioni 1,5 su 5
 
 **Autore** — Simone Continenza · **Brief** — Target: Venditore · Leva: Le provvigioni lasciate sul tavolo · Struttura: S3 Confessione (dal campo) · Obiettivo: commenti
 **Fonti dati** — `dati/insight-trattative.md` righe 3, 4 e 9 (dati reali via MCP). La scena del CRM è una situazione tipo, non un episodio preciso.
@@ -8,21 +8,21 @@
 2. **Scena:** Il cliente ci racconta il problema. Noi annuiamo. E passiamo subito alla demo.
 3. **Ribaltamento:** Il mio team è bravissimo a farsi voler bene. Ed è proprio questo il problema.
 
-Scelto il **n. 1**: ha un numero vero e strano (1,5), si capisce da solo e fa venire voglia di sapere "quale fase". L'errore è nostro, quindi non giudica chi legge.
+Scelto il **n. 3**: è un complimento che diventa un'accusa, e la curiosità ("perché sarebbe un problema?") porta al "…altro". L'accusa è al team di Simone, non a chi legge. Il numero 1,5 arriva subito dopo, come prova.
 
 ## Post
-Abbiamo dato un voto alle nostre trattative. In una fase prendiamo 1,5 su 5.
+Il mio team è bravissimo a farsi voler bene. Ed è proprio questo il problema.
 
-Contesto: di mestiere vendo un software che analizza le trattative.
-Un giorno l'abbiamo puntato su di noi.
+Lo so perché gli abbiamo dato un voto.
+Di mestiere vendo un software che analizza le trattative: un giorno l'abbiamo puntato su di noi.
 
-343 trattative del nostro team, metodo SPIN.
+343 trattative, metodo SPIN.
 Situazione: 2,7.
 Problema: 2,8.
 Rapport: 3,2.
 Implicazioni: 1,5.
 
-Tradotto: siamo bravi a farci raccontare il problema. E a farci voler bene.
+Tradotto: il cliente ci racconta il problema e si trova bene con noi.
 Poi, proprio quando dovremmo chiedere «e questo quanto vi costa?», partiamo con la demo.
 
 Il cliente dice: «I miei venditori compilano il CRM la sera, a memoria.»
@@ -63,7 +63,7 @@ Venditori: qual è la domanda che sapete di dover fare in trattativa e che salta
 
 ## Checklist
 **17/17**
-- ✅ Prima riga di 14 parole, con un numero; funziona da sola.
+- ✅ Prima riga di 15 parole, un'accusa (rivolta al proprio team); funziona da sola.
 - ✅ Una sola idea: saltiamo la domanda sulle conseguenze.
 - ✅ Nemico: l'abitudine di passare alla demo appena il cliente racconta il problema.
 - ✅ Numeri reali e approvati (righe 3, 4 e 9 di `dati/insight-trattative.md`), uno ogni 50-80 parole.

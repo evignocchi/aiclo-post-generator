@@ -15,6 +15,7 @@ L'assistente segue `CLAUDE.md`, che gli dice cosa leggere, come scrivere e in ch
 | File | Contenuto |
 |------|-----------|
 | `CLAUDE.md` | Le istruzioni operative per il generatore |
+| `guide/00-stile-di-scrittura.md` | **Documento unico e autosufficiente sullo stile**: profilo psicologico del target incrociato con lo stile, la voce dei tre autori, le regole anti-AI, esempi prima e dopo. È quello da dare a un altro assistente AI |
 | `guide/01-analisi-post-benchmark.md` | I 18 post di riferimento: categorie, peculiarità, engagement |
 | `guide/02-anatomia-post-vincente.md` | Sintesi incrociata: le 11 leggi, le 7 strutture, il mix editoriale |
 | `guide/03-icp-aiclo.md` | Il prodotto, i claim, l'ICP, le due persone |

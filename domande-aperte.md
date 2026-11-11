@@ -15,12 +15,14 @@
 | Logo | PNG nero e bianco in `brand/` |
 | Provocazione | Si provoca un pensiero o una domanda, mai una persona; niente attacchi né presunzione |
 | Frequenza | A richiesta |
+| Generatore di immagini | ChatGPT, usato dall'agente Grok; il logo vero si sovrappone con Python (vedi `HANDOFF-GROK.md`) |
+| Agente | Grok (GrokBot) con accesso a GitHub, ChatGPT e connettore Aiclo → istruzioni in `CLAUDE.md` + `HANDOFF-GROK.md` |
 
 ## Ancora da fare (servono al team)
 1. **Episodi in `dati/episodi-trattative.md`**: il team ne ha (3-5 da incollare). Non sono obbligatori, ma rendono i post S4 più specifici delle storie costruite.
 2. **Compilare i 3 `profilo.md`**: link LinkedIn, background, espressioni tipiche e 3-5 storie vere per ogni autore.
 3. **Damiano Aureli**: su cosa è più credibile? (L'angolo nel profilo è provvisorio.)
-4. **Generatore di immagini**: quale strumento usate (Midjourney, Gemini, Ideogram, ChatGPT, Canva…)? Serve per adattare la sintassi dei prompt.
+4. **Generatore di immagini**: ✅ ChatGPT (vedi `HANDOFF-GROK.md`, sezione 3).
 5. **Profili degli autori**: LinkedIn blocca la lettura automatica dei profili. Servono il testo del profilo (headline, informazioni, esperienze) e 5-10 post recenti per ogni autore, incollati o salvati in `post/<autore>/post-pubblicati.md`.
 6. **Ipotesi da verificare** (da `ricerca/profilo-target.md`):
    - Il manager teme che i dati mostrino un suo limite → colloqui riservati con clienti nei primi mesi; riascolto delle demo in cui compare esitazione.

@@ -12,6 +12,7 @@ Unisce due cose: **chi legge** (il profilo psicologico di manager commerciali e 
 3. Le regole marcate **sempre** e **mai** non si negoziano. Il resto è orientamento: se una regola peggiora il post, conta il risultato.
 4. Puoi inventare storie e numeri dentro una storia, purché verosimili e anonimi, e devi dirlo all'autore (sezione 8). Non puoi inventare numeri presentati come risultato delle analisi di Aiclo.
 5. Scrivi in italiano. Se serve una versione inglese, si riscrive da zero e non si traduce.
+6. Consegna ogni post nel formato della sezione 11, e passa prima il controllo della sezione 9.
 
 ---
 
@@ -845,3 +846,93 @@ Prima di consegnare un post, rispondi sì a ognuna di queste domande. Quelle in 
 - **Test WhatsApp:** un venditore lo girerebbe a un collega?
 - **Test del titolare:** un manager lo metterebbe nella chat del team dicendo "leggete qua"?
 - **Test pubblicità:** letto ad alta voce, sembra una pubblicità? Se sì, va riscritto.
+
+---
+
+## 10. Le immagini
+
+L'immagine ha un solo compito: fermare il pollice di chi scorre il feed. Se non ci riesce, è meglio il testo semplice.
+
+### Quale immagine per quale post
+
+| Post | Prima scelta | Alternativa |
+|------|--------------|-------------|
+| Appunti dal campo (A-E, G) | **Foto vera dell'autore o del momento**, chiesta con la mail della sezione 6.3 | Screenshot vero con i dati sfocati, oppure niente |
+| Confronto visivo (F) | Card a due colonne | Screenshot della piattaforma con dati dimostrativi |
+| S1 Ribaltamento | Numero gigante, oppure scritto a mano (lavagna, post-it, foglio) | Card tipografica |
+| S2 Concetto con un nome | Un oggetto vero del mestiere (preventivo stropicciato, telefono con 9 chiamate perse) | Scritto a mano con il nome del concetto |
+| S3 Confessione, S5 Storia | Foto vera dell'autore | Scritto a mano |
+| S4 Dentro la trattativa | Chat o messaggio del cliente, oppure screenshot della piattaforma con dati dimostrativi | Card con la trascrizione ("CLIENTE · 23:14") |
+| S6 Formula | Carosello con una copertina forte | Grafico che fa male |
+| Post con un dato forte | Grafico che fa male (la barra corta fra quelle lunghe) o numero gigante | — |
+
+### Le regole
+
+1. **Test del pollice:** rimpicciolita a 300 pixel, si capisce in un secondo.
+2. **Un solo protagonista**, grande almeno metà dell'immagine.
+3. **Un'anomalia o una tensione:** il numero cerchiato in rosso, la barra corta fra quelle lunghe, il post-it con «ci penso» sul preventivo.
+4. **Concreto batte astratto:** oggetti veri del mestiere. Mai icone, frecce, ingranaggi, cervelli, lampadine, razzi.
+5. **Persone vere.** La foto vera dell'autore batte qualsiasi immagine generata. Mai sorrisi da banca d'immagini.
+6. **Il numero diventa forma:** un 1,5 enorme, una barra che si ferma a metà.
+7. **Massimo 8 parole** nell'immagine, grandi, e devono aggiungere qualcosa alla prima riga del post.
+8. **Imperfetto batte patinato:** scritto a mano, foto col telefono, screenshot vero.
+9. **Un solo colore che urla:** l'ambra del brand, oppure il rosso per un errore. Non tutti e due.
+10. **Sempre verticale 4:5** (1080x1350).
+11. **Niente cliché:** strette di mano, grafici che salgono, robot, persone che indicano uno schermo, gradienti viola-blu, 3D lucido, emoji nell'immagine.
+12. **Mai tre post di fila con lo stesso tipo di immagine.**
+
+### Il brand Aiclo
+
+```
+SFONDO          #08090B (quasi nero; per le card #101318, bordi #262E36)
+TESTO           #FFFFFF (secondario #9CA3AF)
+ACCENTO         #F9A517 (ambra Aiclo: una parola o un elemento, non di più)
+COLORI DATI     verde #7BD1A0 · blu #8FB8F0 · rosso #EE293A (solo punteggi e grafici)
+FONT            titoli Sora bold · testo DM Sans · etichette e numeri IBM Plex Mono
+FORMATO         1080x1350 (4:5)
+```
+
+- Lo sfondo scuro non è obbligatorio: si alterna con carta, bianco sporco e foto vere. L'ambra c'è sempre, anche solo in un dettaglio.
+- **Il logo non si genera mai** (i generatori lo sbagliano). Nel prompt scrivi sempre: "lascia libero l'angolo in basso a destra, nessun logo". Il logo vero si aggiunge dopo.
+- Nei prompt descrivi sempre inquadratura, luce, materiale e cosa è a fuoco. Contesto italiano (auto aziendale, capannone, ufficio di una PMI), mai Silicon Valley. Nessun volto riconoscibile di persone reali, nessun logo di altre aziende.
+
+---
+
+## 11. Cosa consegnare
+
+Per ogni post, consegna questo, in quest'ordine:
+
+```
+# [Titolo interno del post]
+
+Autore: [Andrea Aureli | Damiano Aureli | Simone Continenza]
+Registro e formato: [post costruito S1-S7 o meme | appunto dal campo A-G]
+Target: [manager | venditore | tutti e due] (sotto-target, se c'è: titolare-manager, manager promosso, fuoriclasse, chi sta crescendo, veterano sul campo, chi è in difficoltà)
+Leva: [la paura, il bisogno o la scena della sezione 2 su cui fa leva]
+Leva per i commenti: [una delle 6 della sezione 5.5]
+Aiclo: [non nominato | nominato: in che modo, dalla tabella della sezione 1]
+Da verificare con l'autore: [storia costruita | numero costruito | dato dalla sezione 8 | nessuno] e cosa, nello specifico
+
+## Ganci alternativi
+1. …
+2. …
+3. …
+(quale hai scelto e perché, in una riga)
+
+## Post
+[testo pronto da incollare su LinkedIn]
+
+## Immagine
+Tipo: [nessuna | foto vera | screenshot | numero gigante | scritto a mano | oggetto vero | chat | card | grafico | carosello | meme]
+Anomalia: [cosa ferma il pollice, in una riga]
+[Se è una foto vera: la mail di richiesta all'autore, dalla sezione 6.3]
+[Se è un'immagine da generare: il prompt completo, pronto da incollare nel generatore]
+
+## Primo commento (facoltativo)
+[un commento dell'autore che rilancia la discussione, senza link a meno che non servano]
+
+## Controllo
+[i punti della sezione 9 non rispettati, oppure "tutto ok"]
+```
+
+Se ti chiedono più post insieme, varia autore, target, registro e formato, e fai in modo che circa uno su quattro nomini Aiclo.

@@ -4,7 +4,10 @@
 | Tema | Decisione |
 |------|-----------|
 | Autori | Andrea Aureli (CEO), Damiano Aureli (Co-founder), Simone Continenza (Head of Sales). Altri si aggiungono con `post/_template-autore/` |
-| Obiettivo | Solo engagement → Aiclo quasi mai nominato |
+| Obiettivo | Engagement; circa 1 post su 4 posiziona Aiclo come soluzione, dentro la storia |
+| Registri | Post costruiti (150-300 parole) e appunti dal campo (50-150), più o meno a metà |
+| Parolacce | Quasi mai: al massimo una leggera in uno sfogo |
+| Foto vere degli autori | Sì, anche di vita privata, meglio in ufficio. Si chiedono all'autore con una mail (template nel file `00`) |
 | Target | Nessuna priorità: si alterna fra manager e venditori |
 | Insight aggregati, clienti, episodi reali | Autorizzati → cartella `dati/` |
 | Storie (prima e dopo, episodi, clienti tipo) | Si possono costruire, verosimili e anonime → segnalate come `storia costruita` |

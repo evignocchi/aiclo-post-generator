@@ -34,4 +34,4 @@ L'assistente segue `CLAUDE.md`, che gli dice cosa leggere, come scrivere e in ch
 | `esempi/` | Post d'esempio già completi |
 | `domande-aperte.md` | Le decisioni prese e quello che manca |
 
-Obiettivo dei post: **solo engagement**. Aiclo si nomina raramente.
+Obiettivo dei post: **engagement**. Circa un post su quattro nomina Aiclo, dentro la storia.

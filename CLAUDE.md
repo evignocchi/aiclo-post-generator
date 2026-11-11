@@ -5,6 +5,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
 **Obiettivo unico: engagement** (reazioni, commenti, condivisioni). Non si vendono demo. Il post deve valere anche per chi non comprerà mai Aiclo.
 
 ## Prima di scrivere, leggi
+0. `guide/00-stile-di-scrittura.md`: il documento unico sullo stile (target incrociato con lo stile, voci, regole anti-AI, i due registri, gli appunti dal campo) **(obbligatorio)**
 1. `post/<autore>/profilo.md` (e `post-pubblicati.md`, se c'è): chi firma il post, la sua voce, i suoi temi **(obbligatorio)**
 2. `guide/02-anatomia-post-vincente.md`: le 11 leggi e le 7 strutture **(obbligatorio)**
 3. `guide/04a-manager.md` o `guide/04b-venditore.md` (a seconda del target) e `guide/04c-scontro-e-terreno-comune.md`: a chi parli, quale nervo tocchi, come far commentare **(obbligatorio)**
@@ -22,7 +23,7 @@ Questa repository è una **macchina per scrivere post LinkedIn** che escono dai 
    - Sotto-target (facoltativo): titolare-manager, manager promosso, oppure uno dei 4 venditori (fuoriclasse, chi sta crescendo, veterano sul campo, chi è in difficoltà)
    - Leva emotiva (dalle tabelle dei file `04a`/`04b`/`04c`)
    - Leva per i commenti (una delle 6 del file `06`)
-   - Struttura: S1-S7 o Meme
+   - Registro: post costruito (S1-S7 o Meme, 150-300 parole) oppure appunto dal campo (formati A-G, 50-150 parole). Alternali più o meno a metà
    - Obiettivo: commenti | condivisioni | salvataggi
    - Materiale reale: insight, episodio o cliente dalla cartella `dati/`
 3. **Scrivi 3 hook alternativi** con meccanismi diversi e scegli il migliore.
@@ -67,7 +68,9 @@ Anomalia: [cosa c'è di storto o di strano che ferma il pollice, in una riga]
 - **I numeri si possono costruire**, se sono presentati come esperienza dell'autore ("su 10 'ci penso' che ricevo, ne chiudo 2"), come esempio o dentro una storia. Nell'output, alla voce **Fonti dati**, scrivi `numero costruito`, così l'autore lo verifica con la sua esperienza prima di pubblicare.
 - **Unico limite:** un numero presentato come risultato dell'analisi di Aiclo ("nelle 10.000 trattative che abbiamo analizzato, il X%…") viene solo dai claim del file `03` o dalle righe approvate in `dati/`. Mai citazioni inventate attribuite a persone reali con il nome.
 - **Il dato "63% delle vendite sul territorio" non si usa**: non ha una fonte.
-- **Aiclo quasi mai nominato**: l'obiettivo è l'engagement. Al massimo 1 post su 8 lo nomina, una sola volta e mai nella prima riga.
+- **Aiclo in circa 1 post su 4**: l'obiettivo principale è l'engagement, il secondo è far capire cosa risolve Aiclo. Quando c'è, è nominato una sola volta, mai nella prima riga, dentro la storia (dato, uso personale, perché l'abbiamo costruito, caso cliente, PS), mai con elenchi di funzionalità (vedi `guide/00-stile-di-scrittura.md`, sezione 1). La storia di fondazione di Aiclo non si inventa mai.
+- **Parolacce**: quasi mai; al massimo una leggera in uno sfogo, un post su dieci.
+- **Foto vere**: non si generano. Se il post ne ha bisogno, sotto il post si scrive la mail di richiesta all'autore (template in `guide/00-stile-di-scrittura.md`, sezione 6.3).
 - **Si provoca un pensiero, mai una persona.** Niente attacchi, niente presunzione, niente tono da "io ho capito e voi no" (vedi il file `05`).
 - **Chi commenta deve uscirne bene**: mai chiedere confessioni in prima persona, usare la confessione spostata.
 - **Mai scrivere che i venditori mentono**; le scorciatoie solo con ironia.

@@ -17,13 +17,30 @@ Unisce due cose: **chi legge** (il profilo psicologico di manager commerciali e 
 
 ## 1. Lo scopo dei post
 
-**L'obiettivo è uno solo: l'engagement.** Reazioni, commenti, condivisioni. I post non vendono demo.
+**L'obiettivo principale è l'engagement.** Reazioni, commenti, condivisioni.
 Un post riuscito vale anche per chi non comprerà mai Aiclo: un venditore lo gira al collega su WhatsApp, un manager lo mette nella chat del team con scritto "leggete qua".
 
-Di conseguenza:
-- **Aiclo quasi mai nominato.** Al massimo 1 post su 8 lo nomina, una sola volta, mai nella prima riga, come contesto ("nelle trattative che analizziamo") o dentro una storia. Mai elenchi di funzionalità.
-- **Il prodotto, al massimo, fa la comparsa.** Il protagonista è la trattativa, il venditore, il manager.
-- **Prova finale:** se togli ogni riferimento ad Aiclo e il post non vale più niente, va riscritto.
+**Il secondo obiettivo è far capire, a chi segue gli autori, che Aiclo esiste e cosa risolve.** Per questo **circa un post su quattro** nomina Aiclo e lo mette dentro la storia come la soluzione che l'autore ha trovato o costruito. Gli altri tre non lo nominano.
+
+### Come entra Aiclo nei post che lo nominano
+
+Aiclo entra come entrerebbe in una conversazione fra colleghi: perché l'autore lo usa, lo ha costruito o ci ha visto qualcosa. Mai come una pubblicità.
+
+| Modo | Esempio | Autore più adatto |
+|------|---------|-------------------|
+| **Da lì viene il dato** | "Ieri sera ho riguardato su Aiclo i numeri delle dieci aziende clienti con più trattative quest'anno." | Andrea |
+| **L'autore lo usa su di sé** | "Mi sono riascoltato in macchina (sì, uso il nostro software anche sulle mie trattative) e ho scoperto che avevo parlato io per 40 minuti su 55." | Simone |
+| **Perché l'abbiamo costruito** | La storia vera del problema da cui è nato Aiclo, o un errore fatto costruendolo | Andrea, Damiano |
+| **Il caso di un cliente** | Una storia di prima e dopo, anonima ("un'azienda SaaS con 9 venditori") | Andrea, Damiano |
+| **Il PS** | Il post vale da solo, e in fondo: "Ps. È il motivo per cui facciamo Aiclo. Se il tema vi riguarda, scrivetemi." | Tutti |
+
+**Regole:**
+- Aiclo **mai nella prima riga**, e nominato **una sola volta** nel post.
+- **Mai elenchi di funzionalità**, mai il gergo del software. Si racconta un effetto concreto ("le note nel CRM si scrivono da sole", "so quale trattativa riascoltare il lunedì").
+- Al venditore Aiclo si presenta come un aiuto: le email di follow-up scritte, le note già nel CRM, un feedback che vede solo lui. **Mai come uno strumento di controllo.**
+- Al manager si presenta come il modo di vedere il 95% delle trattative che oggi non vede, senza doverle ascoltare.
+- Nessun link nel post e niente "prenota una demo". Al massimo, nel PS, "scrivetemi".
+- **Prova finale:** togli la frase su Aiclo. Il post deve valere ancora qualcosa (fa eccezione solo "perché l'abbiamo costruito"). Se senza quella frase non resta niente, era una pubblicità: va riscritto.
 
 ---
 
@@ -239,6 +256,8 @@ Vale per tutti e tre gli autori. Le differenze fra loro sono nella sezione 4.
 - dal campo, non dalla teoria
 - il metodo dei migliori diventa del team
 
+**Parolacce:** quasi mai. Al massimo una parola leggera ("incazzare", "casino") in un post su dieci, solo quando l'autore racconta una cosa che lo fa arrabbiare davvero. Mai nella prima riga, mai rivolta a una persona, mai più di una per post.
+
 **Con i venditori:** "scorecard" dice poco e "pagella" funziona solo con ironia. Meglio "la valutazione della trattativa" o "il feedback".
 
 **Parole vietate** (sanno di AI, di software o di marketing): insight, data-driven, enablement, revenue intelligence, conversation intelligence, leverage, mindset, sinergia, rivoluzionario, game changer, nel panorama odierno, in un mondo in cui, sfida, viaggio, potenziare, sbloccare, ecosistema, a 360°, fondamentale, cruciale, "ecco perché" in apertura, "Spoiler:", "Plot twist:", "Facciamo un passo indietro".
@@ -247,7 +266,7 @@ Vale per tutti e tre gli autori. Le differenze fra loro sono nella sezione 4.
 
 - **Riga 1:** il gancio. **Riga 2:** vuota.
 - **Paragrafi** di 1-3 righe. Si va a capo spesso. Niente muri di testo.
-- **Lunghezza:** 150-300 parole. Sotto le 100 solo per meme e provocazioni secche.
+- **Lunghezza:** 150-300 parole per i post costruiti (sezione 5), 50-150 per gli appunti dal campo (sezione 6).
 - **Elenchi:** solo numerati, massimo 5 voci, e solo se servono davvero.
 - **Emoji:** zero o una, mai in apertura.
 - **Hashtag:** zero, al massimo 3 in fondo.
@@ -344,7 +363,9 @@ La voce comune è la base. Ogni autore ha un angolo diverso: un tema adatto a pi
 
 ---
 
-## 5. Com'è fatto un post
+## 5. Com'è fatto un post costruito
+
+I post si scrivono in due registri, da alternare più o meno a metà: i **post costruiti** (questa sezione: 150-300 parole, una struttura precisa) e gli **appunti dal campo** (sezione 6: 50-150 parole, sembrano scritti in cinque minuti).
 
 ### 5.1 Le 11 leggi
 
@@ -355,9 +376,9 @@ La voce comune è la base. Ogni autore ha un angolo diverso: un tema adatto a pi
 5. **Un'idea sola.** Se servono due idee, servono due post.
 6. **Dare un nome alla cosa.** Un concetto ripetibile: "il punto cieco del 95%", "la sindrome del promosso".
 7. **Prosa breve, a capo spesso**, ma non una frase per riga (sezione 3.5, punto 9).
-8. **150-300 parole.**
+8. **150-300 parole** (50-150 per gli appunti dal campo).
 9. **Chiusura breve.** Una frase che si può citare va bene una volta ogni tanto; più spesso il post finisce su un fatto, un'azione o una domanda vera.
-10. **Il prodotto, al massimo, fa la comparsa.**
+10. **Aiclo in circa un post su quattro**, una volta sola, mai nella prima riga, come parte della storia (sezione 1).
 11. **Il commento deve far fare bella figura a chi lo scrive.**
 
 ### 5.2 Il gancio: 8 meccanismi
@@ -393,7 +414,7 @@ Mai aprire con una domanda generica ("Vi siete mai chiesti…?").
 
 **S7, due versioni** (per manager e venditori insieme). "Per il manager è X. Per il venditore è Y." → la lettura del manager, con rispetto → quella del venditore, con rispetto → il punto in cui hanno ragione tutti e due → la domanda per schierarsi.
 
-**Equilibrio su 10 post:** 2 S1, 1 S2, 1 S3, 2 S4, 1 S5, 1 S6, 2 S7, e ogni tanto un meme. Non più di 2 post di fila per lo stesso lettore.
+**Equilibrio fra i post costruiti:** S1, S4 e S7 più spesso degli altri; S2, S3, S5 e S6 ogni tanto; un meme ogni tanto. Non più di 2 post di fila per lo stesso lettore, e non più di 2 post costruiti di fila: in mezzo, un appunto dal campo.
 
 ### 5.4 Le chiusure
 
@@ -426,11 +447,132 @@ Mai: "Tutto qui.", "Punto.", "Pensaci.", "Rileggilo.", "Cosa ne pensate?", "E tu
 
 **Per i venditori:** "Se chiudi nessuno ti chiede come. Se non chiudi ti chiedono tutto." · "Ogni mese si riparte da zero. Chi non vende non sa cosa significa." · "Riascoltarsi fa male per dieci minuti. Poi senti l'obiezione che dal vivo ti era sfuggita." · "«Devi essere più incisivo». Grazie capo, lunedì comincio." · "Il cliente ti conosce da sei anni. La scheda di valutazione no."
 
-**Per entrambi:** "Manager e venditore raccontano la stessa trattativa. Sembrano due trattative diverse." · "Registrare le trattative è crescita o controllo? Dipende da cosa ci fai il giorno dopo." · "Venditori si nasce o si diventa? E se si diventa, chi te l'ha insegnato?" · "La trattativa che hai perso e di cui ancora oggi non sai il perché."
+**Per entrambi:** "Sbaglio o il venditore che chiude di più è quasi sempre quello che compila peggio il CRM?" · "Manager e venditore raccontano la stessa trattativa. Sembrano due trattative diverse." · "Registrare le trattative è crescita o controllo? Dipende da cosa ci fai il giorno dopo." · "Venditori si nasce o si diventa? E se si diventa, chi te l'ha insegnato?" · "La trattativa che hai perso e di cui ancora oggi non sai il perché."
 
 ---
 
-## 6. Esempi prima e dopo
+## 6. Gli appunti dal campo
+
+Post corti che sembrano scritti in cinque minuti, fra un appuntamento e l'altro. Sono il registro più umano, quello di cui il lettore si fida di più, e spesso fanno più commenti dei post costruiti. Non hanno bisogno di produzione: una domanda, una foto vera, un numero piccolo.
+
+### 6.1 Cosa hanno in comune
+
+1. **È successo davvero, e di recente.** Ieri sera, questa settimana, stamattina alle 7:40. Il momento è preciso.
+2. **Sono un po' imperfetti.** Linguaggio parlato ("un botto", "boh", "eh"), qualche puntino di sospensione, al massimo un'emoji di reazione (😅) e mai di decorazione.
+3. **C'è una prova vera.** Una foto fatta col telefono, uno screenshot con i dati sfocati. Mai un'immagine generata.
+4. **I numeri sono piccoli e dell'autore.** 2 firmati su 14, 40 minuti su 55.
+5. **L'autore ammette qualcosa.** Un errore, una settimana storta, un dato che non si aspettava.
+6. **Finiscono con una domanda vera o un piccolo invito.** Non con una morale.
+7. **50-150 parole, nessuna struttura da manuale.** Niente gancio a effetto, niente frase finale da citare.
+
+Possono nominare Aiclo come tutti gli altri post (sezione 1). Nei format C e G viene più naturale.
+
+### 6.2 I sette format
+
+**A. "Sbaglio o…?", la domanda da bar**
+- **Com'è fatto:** un'osservazione dal lavoro detta come un dubbio ("Sbaglio o…?", "Capita solo a me che…?"), due o tre righe di esperienza personale, una domanda a cui chiunque può rispondere senza esporsi.
+- **Perché funziona:** rispondere non costa niente, e chi ha venduto almeno una volta ha un'opinione. È il format con più commenti in proporzione alle reazioni.
+- **Foto:** uno screenshot vero con i dati sfocati (un CRM, una chat, un calendario), oppure niente.
+- **Esempio** (Simone, per tutti e due):
+> Sbaglio o il venditore che chiude di più è quasi sempre quello che compila peggio il CRM?
+>
+> Nel mio team è così da due anni. Note di tre parole, fasi aggiornate il venerdì sera, quando va bene.
+>
+> Una volta ho insistito perché le scrivesse per bene. Quel mese ha chiuso meno. Sarà stata una coincidenza, ma da allora ho smesso di insistere.
+>
+> Da voi com'è?
+
+**B. Il diario della settimana**
+- **Com'è fatto:** i numeri piccoli della settimana, cosa non ha funzionato, l'unica cosa che l'autore prova nella settimana dopo, una nota di vita. Promette un aggiornamento, e così crea un seguito.
+- **Foto:** vera, del momento (il parcheggio all'alba, la scrivania, la lavagna).
+- **Esempio** (Simone, per i venditori; nomina Aiclo):
+> Settimana un po' storta. 14 appuntamenti, 2 firmati, e uno dei due l'avevo dato per perso a settembre.
+>
+> Quello che brucia di più è di lunedì, un'azienda di impianti vicino a Verona. Mi sono riascoltato in macchina (sì, Aiclo lo uso anche sulle mie trattative) e su 55 minuti avevo parlato io per 40.
+>
+> Questa settimana provo una cosa sola: alla prima domanda del cliente conto fino a tre prima di rispondere. Venerdì vi dico com'è andata.
+>
+> Ps. Il parcheggio stamattina alle 7:40. Il bar apriva alle 8.
+
+**C. Il dato che mi ha sorpreso**
+- **Com'è fatto:** un dato vero (dalla sezione 8), cosa pensava l'autore prima, un ragionamento con qualche "forse", cosa cambia nel suo lavoro. Nessuna morale.
+- **Foto:** l'autore alla scrivania con il grafico sullo schermo, oppure uno screenshot con dati dimostrativi.
+- **Esempio** (Andrea, per i manager; nomina Aiclo):
+> Ero convinto che il punto debole dei team commerciali fosse la chiusura. Ieri sera ho riguardato su Aiclo i numeri delle dieci aziende clienti con più trattative quest'anno, e la chiusura è quasi l'unica cosa che va bene.
+>
+> I prossimi passi prendono fra 3,1 e 3,7 su 5 in otto aziende su dieci. La gestione delle obiezioni sta sotto il 3,2 in tutte e dieci.
+>
+> Forse ci siamo fatti l'idea sbagliata perché la chiusura si vede: la firma c'è o non c'è. Un'obiezione gestita male invece non lascia traccia. Il cliente dice «ci penso» e sembra normale.
+>
+> Non so ancora bene cosa farne. Intanto, quando parlo con un direttore commerciale, gli chiedo cosa rispondono i suoi quando il cliente dice che è caro.
+
+**D. Il consiglio dalla scrivania**
+- **Com'è fatto:** un oggetto o un'abitudine concreta del mestiere, l'errore che l'autore faceva prima, il consiglio, un PS ironico. Va bene anche se è un po' fuori tema: rende l'autore una persona.
+- **Foto:** l'oggetto vero, in ufficio o in macchina, meglio se con la mano dell'autore.
+- **Esempio** (Damiano o Simone):
+> La spesa più utile dell'anno per il mio lavoro: una power bank da 19 euro.
+>
+> Quest'anno ho rischiato tre volte di perdere una trattativa perché il telefono moriva in macchina, fra un appuntamento e l'altro, proprio mentre il cliente richiamava.
+>
+> Adesso sta nel cassetto dell'auto, sempre carica. Ho smesso di girare con il terrore del 5%.
+>
+> Ps. Nessuno mi paga per dirlo. L'ho presa all'Autogrill.
+
+**E. Lo sfogo**
+- **Com'è fatto:** una cosa successa oggi che fa arrabbiare l'autore, detta a caldo. La rabbia va contro una situazione o un'abitudine, mai contro una persona. È l'unico format in cui può scappare una parolaccia leggera. Raro: al massimo un post su dieci.
+- **Foto:** nessuna, oppure l'autore in ufficio.
+- **Esempio** (Andrea o Simone, per i manager):
+> Oggi un direttore commerciale mi ha detto che il suo team ha fatto 40 ore di formazione quest'anno. Gli ho chiesto cosa fanno di diverso in trattativa, e ci ha pensato a lungo.
+>
+> Con lui non ce l'ho, mi ha risposto con onestà. Mi fa arrabbiare che da vent'anni misuriamo le ore passate in aula e quasi mai quello che succede davanti al cliente. Spendiamo migliaia di euro per far ascoltare ai venditori qualcuno che ha venduto quindici anni fa, e nessuno ascolta una loro trattativa.
+>
+> Scusate lo sfogo. È una cosa che mi fa incazzare da quando facevo il venditore io.
+
+**F. Il confronto visivo**
+- **Com'è fatto:** l'immagine fa tutto il lavoro, il testo è di due-quattro righe. Un confronto che si capisce in un secondo. Mai con i nomi dei concorrenti.
+- **Visual:** una card a due colonne, per esempio "Cosa c'è scritto nel CRM" e "Cosa è successo in trattativa": "Fase: negoziazione" accanto a "Il cliente ha chiesto tre volte chi altro lo usa"; "Prossimo passo: richiamare" accanto a "Il cliente ha detto «ne parlo con mio fratello»".
+- **Esempio di testo** (qualunque autore, per i manager):
+> Ho messo uno accanto all'altro quello che c'era scritto nel CRM e quello che è stato detto davvero in quattro trattative del mese scorso.
+>
+> Nessuno dei venditori aveva scritto il falso. Avevano scritto quello che serviva a loro.
+
+**G. Perché l'abbiamo costruito**
+- **Com'è fatto:** il momento preciso in cui il problema è diventato evidente, cosa hanno provato prima, cosa hanno costruito, una cosa che ancora non funziona come vorrebbero. Aiclo si nomina una volta, mai nella prima riga.
+- **⚠️ Mai inventato.** È l'unico format in cui la storia non si può costruire: è la storia vera dell'azienda. Se non la conosci, scrivi la struttura con i punti da riempire e chiedi i fatti all'autore.
+- **Foto:** l'autore in ufficio, oppure una foto vera dei primi tempi.
+- **Struttura d'esempio** (Andrea o Damiano):
+> [Quando e dove: il momento preciso, con un dettaglio vero.] Avevo un team di [N] venditori e una sola informazione affidabile su di loro: quanto fatturavano.
+>
+> [Cosa hanno provato prima: affiancamenti, corsi, il CRM, e perché non bastava.]
+>
+> [La decisione, detta semplice.] Da lì è nato Aiclo.
+>
+> [Una cosa che ancora non va come vorrebbero, o che hanno sbagliato.]
+>
+> [Una domanda vera ai manager, per esempio: come fate oggi a sapere cosa succede nelle trattative a cui non siete presenti?]
+
+### 6.3 Le foto vere: chiederle all'autore
+
+Le foto vere non si generano. Quando un post ne ha bisogno, scrivi **sotto il post** una mail pronta da mandare all'autore. Le foto della vita privata vanno bene, meglio se al lavoro: scrivania, ufficio, sala riunioni, macchina, lavagna.
+
+```
+Oggetto: Foto per il post "[titolo]" di [giorno]
+
+Ciao [nome],
+per il post di [giorno] serve una foto vera, scattata col telefono.
+
+Cosa: [cosa deve vedersi, in una riga: es. "la power bank nel cassetto della macchina, con la tua mano"]
+Dove: [ufficio / macchina / scrivania / sala riunioni]
+Come: in verticale, luce naturale, nessuna posa. Va benissimo se è un po' storta.
+Attenzione: niente nomi di clienti, numeri di telefono o dati leggibili sugli schermi. Se ci sono, sfocali o dimmelo e li sfoco io.
+Entro: [data]
+
+Se non riesci, rispondi "salta" e uso [alternativa: testo semplice / screenshot / card].
+
+Grazie!
+```
+
+## 7. Esempi prima e dopo
 
 Le bozze "prima" sono costruite apposta con gli errori più comuni. Le versioni "dopo" mostrano lo stile applicato. Tutte le storie e i numeri dentro le storie sono costruiti.
 
@@ -619,7 +761,7 @@ Le bozze "prima" sono costruite apposta con gli errori più comuni. Le versioni 
 
 ---
 
-## 7. Cosa si può dire: numeri, storie, limiti
+## 8. Cosa si può dire: numeri, storie, limiti
 
 Lo stile si regge sulla fiducia. Questi limiti esistono perché un lettore che scopre un numero falso non si fida più dell'autore.
 
@@ -661,7 +803,7 @@ I numeri presentati come risultato delle analisi di Aiclo vengono **solo** da qu
 
 ---
 
-## 8. Controllo finale dello stile
+## 9. Controllo finale dello stile
 
 Prima di consegnare un post, rispondi sì a ognuna di queste domande. Quelle in grassetto sono obbligatorie.
 
@@ -679,12 +821,15 @@ Prima di consegnare un post, rispondi sì a ognuna di queste domande. Quelle in 
 - **Una sola idea?**
 - C'è un nemico: una credenza, un'abitudine, uno status quo?
 - C'è un numero o un dettaglio concreto ogni 100 parole?
-- **I numeri attribuiti ad Aiclo vengono dalla sezione 7? Storie e numeri costruiti sono segnalati all'autore?**
+- **I numeri attribuiti ad Aiclo vengono dalla sezione 8? Storie e numeri costruiti sono segnalati all'autore?**
 
 **Lo stile**
 - **Provoca un pensiero senza attaccare nessuno? Nessuna frase che fa sentire stupido chi legge?**
 - 150-300 parole, paragrafi di 1-3 righe, zero o una emoji, nessun link, nessuna parola vietata?
-- **Aiclo nominato al massimo una volta, mai nella prima riga, e nella maggior parte dei post per niente?**
+- **Aiclo nominato al massimo una volta e mai nella prima riga? Circa un post su quattro lo nomina, gli altri no?**
+- **Se nomina Aiclo: è dentro la storia (sezione 1), senza funzionalità elencate e senza controllo? Togliendo quella frase, il post vale ancora?**
+- Se serve una foto vera, c'è la mail di richiesta per l'autore (sezione 6.3)?
+- Parolacce: nessuna, o al massimo una leggera in uno sfogo?
 - Suona come l'autore che firma (sezione 4)?
 - La chiusura è breve, e diversa da quella degli ultimi due post dell'autore?
 

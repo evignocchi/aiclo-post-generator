@@ -17,7 +17,7 @@ Un post si pubblica solo con **almeno 17 sì su 19**, e i punti contrassegnati c
 - [ ] Se usa una paura etichettata **Ipotesi**, la usa come scena o come domanda, non come verità generale.
 
 ## Forma
-- [ ] 150-300 parole (salvo meme o provocazioni).
+- [ ] 150-300 parole per i post costruiti, 50-150 per gli appunti dal campo.
 - [ ] Paragrafi di 1-3 righe, nessun muro di testo.
 - [ ] Zero o una emoji, niente parole vietate (file `05`).
 - [ ] Nessun link nel corpo del post.
@@ -25,7 +25,7 @@ Un post si pubblica solo con **almeno 17 sì su 19**, e i punti contrassegnati c
 ## Chiusura, prodotto e tono
 - [ ] La chiusura è una frase sola, che si può citare.
 - [ ] ⛔ Chi commenta ne esce bene: il post e il primo commento non chiedono confessioni in prima persona, e non ci sono affermazioni legali.
-- [ ] ⛔ Aiclo è nominato al massimo una volta e mai nella prima riga, e nella maggior parte dei post non è nominato affatto.
+- [ ] ⛔ Aiclo è nominato al massimo una volta e mai nella prima riga; circa un post su quattro lo nomina, dentro la storia e senza elenchi di funzionalità.
 - [ ] ⛔ Provoca un pensiero, non attacca nessuno. Nessuna frase presuntuosa o che fa sentire stupido chi legge.
 - [ ] La voce corrisponde al `profilo.md` dell'autore.
 
@@ -40,4 +40,4 @@ Un post si pubblica solo con **almeno 17 sì su 19**, e i punti contrassegnati c
 ## Test finali
 - **Test WhatsApp:** un venditore lo girerebbe a un collega?
 - **Test del titolare:** un manager lo metterebbe nella chat del team dicendo "leggete qua"?
-- **Test pubblicità:** se togli il nome Aiclo, il post vale ancora? Se no, riscrivi.
+- **Test pubblicità:** se togli la frase su Aiclo, il post vale ancora? Se no, riscrivi (fa eccezione il formato "Perché l'abbiamo costruito").

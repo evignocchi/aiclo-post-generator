@@ -13,7 +13,7 @@ Questa è la sintesi delle peculiarità del file `01`. Ogni post generato deve r
 7. **Prosa breve, a capo spesso.** Righe di 1-2 frasi. Niente muri di testo, niente elenchi pieni di emoji. Liste solo se numerate e brevi (3-5 voci).
 8. **150-300 parole.** Sotto i 100 solo per i meme o le provocazioni secche.
 9. **Chiusura in una frase.** Si deve poter citare. Niente "Cosa ne pensate? 👇", a meno che la domanda non sia specifica e divisiva (vedi file `06`).
-10. **Il prodotto, al massimo, è una comparsa.** L'obiettivo è solo l'engagement: in 7 post su 8 Aiclo non si nomina. Nell'ottavo si nomina **una volta**, come contesto ("nelle trattative che analizziamo") o dentro una storia.
+10. **Aiclo in circa un post su quattro.** Gli altri tre non lo nominano. Quando c'è, si nomina **una volta**, dentro la storia: il dato viene da lì, l'autore lo usa su di sé, perché l'abbiamo costruito, il caso di un cliente o il PS (file `00`, sezione 1).
 
 11. **Il commento deve far fare bella figura a chi lo scrive.** In pubblico nessuno ammette una paura: leggono il capo, i colleghi e i clienti. Si chiede di raccontare, schierarsi o insegnare, mai di confessare in prima persona (vedi file `04c` e `06`).
 
@@ -96,7 +96,7 @@ Funziona sui temi della tabella "Lo scontro" e su quelli del "terreno comune". N
 | S7 Due versioni | 2 | Commenti da entrambe le parti |
 | Meme / provocazione secca | bonus | Reach verso i venditori |
 
-Lanci di prodotto: **praticamente mai** (obiettivo = engagement). Se proprio servono, dentro una S4 o una S5.
+Lanci di prodotto: **raramente**, e sempre dentro una storia (S4, S5 o il formato G "Perché l'abbiamo costruito" del file `00`).
 
 **Target:** nessuna priorità fissa. Si alterna fra manager, venditori ed entrambi, a seconda del tema; ogni autore non dovrebbe fare più di 2 post di fila per lo stesso target.
 

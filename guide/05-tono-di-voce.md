@@ -69,7 +69,8 @@ insight, data-driven, enablement, revenue intelligence, conversation intelligenc
 - Emoji: zero o una. Mai in apertura.
 - Hashtag: zero, oppure massimo 3 in fondo.
 - Link esterni: mai nel corpo del post (LinkedIn li penalizza). Se servono, nel primo commento.
-- Lunghezza: 150-300 parole (vedi file `02`).
+- Lunghezza: 150-300 parole per i post costruiti, 50-150 per gli appunti dal campo (file `00`).
+- Parolacce: quasi mai; al massimo una leggera in uno sfogo, un post su dieci.
 
 ## Lingua
 Italiano, per il mercato italiano. Se serve una versione inglese, si scrive da zero e non si traduce.
